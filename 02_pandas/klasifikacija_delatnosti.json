@@ -1,0 +1,6098 @@
+[
+  {
+    "idjezik": "2",
+    "idkd08": "0",
+    "nkd081": "Ukupno",
+    "rbrkd08": "0"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "A",
+    "nkd081": "A - Poljoprivreda, šumarstvo i ribarstvo",
+    "rbrkd08": "A"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "01",
+    "nkd081": "Poljoprivredna proizvodnja, lov i prateće uslužne delatnosti",
+    "rbrkd08": "A01"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "011",
+    "nkd081": "Gajenje jednogodišnjih i dvogodišnjih biljaka",
+    "rbrkd08": "A011"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0111",
+    "nkd081": "Gajenje žita (osim pirinča), leguminoza i uljarica",
+    "rbrkd08": "A0111"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0112",
+    "nkd081": "Gajenje pirinča",
+    "rbrkd08": "A0112"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0113",
+    "nkd081": "Gajenje povrća, bostana, korenastih i krtolastih biljaka",
+    "rbrkd08": "A0113"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0114",
+    "nkd081": "Gajenje šećerne trske",
+    "rbrkd08": "A0114"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0115",
+    "nkd081": "Gajenje duvana",
+    "rbrkd08": "A0115"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0116",
+    "nkd081": "Gajenje biljaka za proizvodnju vlakana",
+    "rbrkd08": "A0116"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0119",
+    "nkd081": "Gajenje ostalih jednogodišnjih i dvogodišnjih biljaka",
+    "rbrkd08": "A0119"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "012",
+    "nkd081": "Gajenje višegodišnjih biljaka",
+    "rbrkd08": "A012"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0121",
+    "nkd081": "Gajenje grožđa",
+    "rbrkd08": "A0121"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0122",
+    "nkd081": "Gajenje tropskog i suptropskog voća",
+    "rbrkd08": "A0122"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0123",
+    "nkd081": "Gajenje agruma",
+    "rbrkd08": "A0123"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0124",
+    "nkd081": "Gajenje jabučastog i koštičavog voća",
+    "rbrkd08": "A0124"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0125",
+    "nkd081": "Gajenje ostalog drvenastog, žbunastog i jezgrastog voća",
+    "rbrkd08": "A0125"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0126",
+    "nkd081": "Gajenje uljnih plodova",
+    "rbrkd08": "A0126"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0127",
+    "nkd081": "Gajenje biljaka za pripremanje napitaka",
+    "rbrkd08": "A0127"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0128",
+    "nkd081": "Gajenje začinskog, aromatičnog i lekovitog bilja",
+    "rbrkd08": "A0128"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0129",
+    "nkd081": "Gajenje ostalih višegodišnjih biljaka",
+    "rbrkd08": "A0129"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "013",
+    "nkd081": "Gajenje sadnog materijala",
+    "rbrkd08": "A013"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0130",
+    "nkd081": "Gajenje sadnog materijala",
+    "rbrkd08": "A0130"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "014",
+    "nkd081": "Uzgoj životinja",
+    "rbrkd08": "A014"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0141",
+    "nkd081": "Uzgoj muznih krava",
+    "rbrkd08": "A0141"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0142",
+    "nkd081": "Uzgoj drugih goveda i bivola",
+    "rbrkd08": "A0142"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0143",
+    "nkd081": "Uzgoj konja i drugih kopitara",
+    "rbrkd08": "A0143"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0144",
+    "nkd081": "Uzgoj kamila i lama",
+    "rbrkd08": "A0144"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0145",
+    "nkd081": "Uzgoj ovaca i koza",
+    "rbrkd08": "A0145"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0146",
+    "nkd081": "Uzgoj svinja",
+    "rbrkd08": "A0146"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0147",
+    "nkd081": "Uzgoj živine",
+    "rbrkd08": "A0147"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0149",
+    "nkd081": "Uzgoj ostalih životinja",
+    "rbrkd08": "A0149"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "015",
+    "nkd081": "Mešovita poljoprivredna proizvodnja",
+    "rbrkd08": "A015"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0150",
+    "nkd081": "Mešovita poljoprivredna proizvodnja",
+    "rbrkd08": "A0150"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "016",
+    "nkd081": "Uslužne delatnosti u poljoprivredi i delatnosti posle žetve",
+    "rbrkd08": "A016"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0161",
+    "nkd081": "Uslužne delatnosti u gajenju useva i zasada",
+    "rbrkd08": "A0161"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0162",
+    "nkd081": "Pomoćne delatnosti u uzgoju životinja",
+    "rbrkd08": "A0162"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0163",
+    "nkd081": "Aktivnosti posle žetve",
+    "rbrkd08": "A0163"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0164",
+    "nkd081": "Dorada semena",
+    "rbrkd08": "A0164"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "017",
+    "nkd081": "Lov, traperstvo i odgovarajuće uslužne delatnosti",
+    "rbrkd08": "A017"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0170",
+    "nkd081": "Lov, traperstvo i odgovarajuće uslužne delatnosti",
+    "rbrkd08": "A0170"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "02",
+    "nkd081": "Šumarstvo i seča drveća",
+    "rbrkd08": "A02"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "021",
+    "nkd081": "Gajenje šuma i ostale šumarske delatnosti",
+    "rbrkd08": "A021"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0210",
+    "nkd081": "Gajenje šuma i ostale šumarske delatnosti",
+    "rbrkd08": "A0210"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "022",
+    "nkd081": "Seča drveća",
+    "rbrkd08": "A022"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0220",
+    "nkd081": "Seča drveća",
+    "rbrkd08": "A0220"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "023",
+    "nkd081": "Sakupljanje šumskih plodova",
+    "rbrkd08": "A023"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0230",
+    "nkd081": "Sakupljanje šumskih plodova",
+    "rbrkd08": "A0230"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "024",
+    "nkd081": "Uslužne delatnosti u vezi sa šumarstvom",
+    "rbrkd08": "A024"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0240",
+    "nkd081": "Uslužne delatnosti u vezi sa šumarstvom",
+    "rbrkd08": "A0240"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "03",
+    "nkd081": "Ribarstvo i akvakulture",
+    "rbrkd08": "A03"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "031",
+    "nkd081": "Ribolov",
+    "rbrkd08": "A031"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0311",
+    "nkd081": "Morski ribolov",
+    "rbrkd08": "A0311"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0312",
+    "nkd081": "Slatkovodni ribolov",
+    "rbrkd08": "A0312"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "032",
+    "nkd081": "Akvakulture",
+    "rbrkd08": "A032"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0321",
+    "nkd081": "Morske akvakulture",
+    "rbrkd08": "A0321"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0322",
+    "nkd081": "Slatkovodne akvakulture",
+    "rbrkd08": "A0322"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "B",
+    "nkd081": "B - Rudarstvo",
+    "rbrkd08": "B"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "05",
+    "nkd081": "Eksploatacija uglja",
+    "rbrkd08": "B05"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "051",
+    "nkd081": "Eksploatacija kamenog uglja i antracita",
+    "rbrkd08": "B051"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0510",
+    "nkd081": "Eksploatacija kamenog uglja i antracita",
+    "rbrkd08": "B0510"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "052",
+    "nkd081": "Eksploatacija lignita i mrkog uglja",
+    "rbrkd08": "B052"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0520",
+    "nkd081": "Eksploatacija lignita i mrkog uglja",
+    "rbrkd08": "B0520"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "06",
+    "nkd081": "Eksploatacija sirove nafte i prirodnog gasa",
+    "rbrkd08": "B06"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "061",
+    "nkd081": "Eksploatacija sirove nafte",
+    "rbrkd08": "B061"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0610",
+    "nkd081": "Eksploatacija sirove nafte",
+    "rbrkd08": "B0610"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "062",
+    "nkd081": "Vađenje prirodnog gasa",
+    "rbrkd08": "B062"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0620",
+    "nkd081": "Eksploatacija prirodnog gasa",
+    "rbrkd08": "B0620"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "07",
+    "nkd081": "Eksploatacija ruda metala",
+    "rbrkd08": "B07"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "071",
+    "nkd081": "Eksploatacija ruda gvožđa",
+    "rbrkd08": "B071"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0710",
+    "nkd081": "Eksploatacija ruda gvožđa",
+    "rbrkd08": "B0710"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "072",
+    "nkd081": "Eksploatacija ostalih ruda metala",
+    "rbrkd08": "B072"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0721",
+    "nkd081": "Eksploatacija ruda urana i torijuma",
+    "rbrkd08": "B0721"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0729",
+    "nkd081": "Eksploatacija ruda ostalih crnih, obojenih, plemenitih i drugih metala",
+    "rbrkd08": "B0729"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "08",
+    "nkd081": "Ostalo rudarstvo",
+    "rbrkd08": "B08"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "081",
+    "nkd081": "Eksploatacija kamena, peska, gline i drugih sirovina za građevinske materijale",
+    "rbrkd08": "B081"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0811",
+    "nkd081": "Eksploatacija građevinskog i ukrasnog kamena, krečnjaka, gipsa, krede",
+    "rbrkd08": "B0811"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0812",
+    "nkd081": "Eksploatacija šljunka, peska, gline i kaolina",
+    "rbrkd08": "B0812"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "089",
+    "nkd081": "Eksploatacija ostalih ruda i kamena",
+    "rbrkd08": "B089"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0891",
+    "nkd081": "Eksploatacija minerala, proizvodnja mineralnih đubriva i hemikalija",
+    "rbrkd08": "B0891"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0892",
+    "nkd081": "Eksploatacija treseta",
+    "rbrkd08": "B0892"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0893",
+    "nkd081": "Eksploatacija natrijum-hlorida",
+    "rbrkd08": "B0893"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0899",
+    "nkd081": "Eksploatacija ostalih nemetaličnih ruda i minerala",
+    "rbrkd08": "B0899"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "09",
+    "nkd081": "Uslužne delatnosti u rudarstvu i geološkim istraživanjima",
+    "rbrkd08": "B09"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "091",
+    "nkd081": "Uslužne delatnosti u vezi sa istraživanjem i eksploatacijom nafte i gasa",
+    "rbrkd08": "B091"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0910",
+    "nkd081": "Uslužne delatnosti u vezi sa istraživanjem i eksploatacijom nafte i gasa",
+    "rbrkd08": "B0910"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "099",
+    "nkd081": "Uslužne delatnosti u vezi sa istraživanjem i eksploatacijom ostalih ruda",
+    "rbrkd08": "B099"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "0990",
+    "nkd081": "Uslužne delatnosti u vezi sa istraživanjem i eksploatacijom ostalih ruda",
+    "rbrkd08": "B0990"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "C",
+    "nkd081": "C - Prerađivačka industrija",
+    "rbrkd08": "C"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "10",
+    "nkd081": "Proizvodnja prehrambenih proizvoda",
+    "rbrkd08": "C10"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "101",
+    "nkd081": "Prerada i konzervisanje mesa i proizvoda od mesa",
+    "rbrkd08": "C101"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1011",
+    "nkd081": "Prerada i konzervisanje mesa",
+    "rbrkd08": "C1011"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1012",
+    "nkd081": "Prerada i konzervisanje živinskog mesa",
+    "rbrkd08": "C1012"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1013",
+    "nkd081": "Proizvodnja mesnih prerađevina",
+    "rbrkd08": "C1013"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "102",
+    "nkd081": "Prerada i konzervisanje ribe, ljuskara i mekušaca",
+    "rbrkd08": "C102"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1020",
+    "nkd081": "Prerada i konzervisanje ribe, ljuskara i mekušaca",
+    "rbrkd08": "C1020"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "103",
+    "nkd081": "Prerada i konzervisanje voća i povrća",
+    "rbrkd08": "C103"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1031",
+    "nkd081": "Prerada i konzervisanje krompira",
+    "rbrkd08": "C1031"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1032",
+    "nkd081": "Proizvodnja sokova od voća i povrća",
+    "rbrkd08": "C1032"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1039",
+    "nkd081": "Ostala prerada i konzervisanje voća i povrća",
+    "rbrkd08": "C1039"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "104",
+    "nkd081": "Proizvodnja biljnih i životinjskih ulja i masti",
+    "rbrkd08": "C104"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1041",
+    "nkd081": "Proizvodnja ulja i masti",
+    "rbrkd08": "C1041"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1042",
+    "nkd081": "Proizvodnja margarina i sličnih jestivih masti",
+    "rbrkd08": "C1042"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "105",
+    "nkd081": "Proizvodnja mlečnih proizvoda",
+    "rbrkd08": "C105"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1051",
+    "nkd081": "Prerada mleka i proizvodnja sireva",
+    "rbrkd08": "C1051"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1052",
+    "nkd081": "Proizvodnja sladoleda",
+    "rbrkd08": "C1052"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "106",
+    "nkd081": "Proizvodnja mlinskih proizvoda, skroba i skrobnih proizvoda",
+    "rbrkd08": "C106"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1061",
+    "nkd081": "Proizvodnja mlinskih proizvoda",
+    "rbrkd08": "C1061"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1062",
+    "nkd081": "Proizvodnja skroba i skrobnih proizvoda",
+    "rbrkd08": "C1062"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "107",
+    "nkd081": "Proizvodnja pekarskih proizvoda i testenine",
+    "rbrkd08": "C107"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1071",
+    "nkd081": "Proizvodnja hleba, svežeg peciva i kolača",
+    "rbrkd08": "C1071"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1072",
+    "nkd081": "Proizvodnja dvopeka, keksa, trajnog peciva i kolača",
+    "rbrkd08": "C1072"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1073",
+    "nkd081": "Proizvodnja makarona, rezanaca i sličnih proizvoda od brašna",
+    "rbrkd08": "C1073"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "108",
+    "nkd081": "Proizvodnja ostalih prehrambenih proizvoda",
+    "rbrkd08": "C108"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1081",
+    "nkd081": "Proizvodnja šećera",
+    "rbrkd08": "C1081"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1082",
+    "nkd081": "Proizvodnja kakaoa, čokolade i konditorskih proizvoda",
+    "rbrkd08": "C1082"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1083",
+    "nkd081": "Prerada čaja i kafe",
+    "rbrkd08": "C1083"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1084",
+    "nkd081": "Proizvodnja začina i drugih dodataka hrani",
+    "rbrkd08": "C1084"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1085",
+    "nkd081": "Proizvodnja gotovih jela",
+    "rbrkd08": "C1085"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1086",
+    "nkd081": "Proizvodnja homogenizovanih hranljivih preparata i dijetetske hrane",
+    "rbrkd08": "C1086"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1089",
+    "nkd081": "Proizvodnja ostalih prehrambenih proizvoda",
+    "rbrkd08": "C1089"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "109",
+    "nkd081": "Proizvodnja gotove hrane za životinje",
+    "rbrkd08": "C109"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1091",
+    "nkd081": "Proizvodnja gotove hrane za domaće životinje",
+    "rbrkd08": "C1091"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1092",
+    "nkd081": "Proizvodnja gotove hrane za kućne ljubimce",
+    "rbrkd08": "C1092"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "11",
+    "nkd081": "Proizvodnja pića",
+    "rbrkd08": "C11"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "110",
+    "nkd081": "Proizvodnja pića",
+    "rbrkd08": "C110"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1101",
+    "nkd081": "Destilacija, prečišćavanje i mešanje pića",
+    "rbrkd08": "C1101"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1102",
+    "nkd081": "Proizvodnja vina od grožđa",
+    "rbrkd08": "C1102"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1103",
+    "nkd081": "Proizvodnja pića i ostalih voćnih vina",
+    "rbrkd08": "C1103"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1104",
+    "nkd081": "Proizvodnja ostalih nedestilovanih fermentisanih pića",
+    "rbrkd08": "C1104"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1105",
+    "nkd081": "Proizvodnja piva",
+    "rbrkd08": "C1105"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1106",
+    "nkd081": "Proizvodnja slada",
+    "rbrkd08": "C1106"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1107",
+    "nkd081": "Proizvodnja osvežavajućih pića, mineralne vode i ostale flaširane vode",
+    "rbrkd08": "C1107"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "12",
+    "nkd081": "Proizvodnja duvanskih proizvoda",
+    "rbrkd08": "C12"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "120",
+    "nkd081": "Proizvodnja duvanskih proizvoda",
+    "rbrkd08": "C120"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1200",
+    "nkd081": "Proizvodnja duvanskih proizvoda",
+    "rbrkd08": "C1200"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "13",
+    "nkd081": "Proizvodnja tekstila",
+    "rbrkd08": "C13"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "131",
+    "nkd081": "Priprema i predenje tekstilnih vlakana",
+    "rbrkd08": "C131"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1310",
+    "nkd081": "Priprema i predenje tekstilnih vlakana",
+    "rbrkd08": "C1310"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "132",
+    "nkd081": "Proizvodnja tkanina",
+    "rbrkd08": "C132"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1320",
+    "nkd081": "Proizvodnja tkanina",
+    "rbrkd08": "C1320"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "133",
+    "nkd081": "Dovršavanje tekstila",
+    "rbrkd08": "C133"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1330",
+    "nkd081": "Dovršavanje tekstila",
+    "rbrkd08": "C1330"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "139",
+    "nkd081": "Proizvodnja ostalog tekstila",
+    "rbrkd08": "C139"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1391",
+    "nkd081": "Proizvodnja pletenih i kukičanih materijala",
+    "rbrkd08": "C1391"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1392",
+    "nkd081": "Proizvodnja gotovih tekstilnih proizvoda, osim odeće",
+    "rbrkd08": "C1392"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1393",
+    "nkd081": "Proizvodnja tepiha i prekrivača za pod",
+    "rbrkd08": "C1393"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1394",
+    "nkd081": "Proizvodnja užadi, kanapa, pletenica i mreža",
+    "rbrkd08": "C1394"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1395",
+    "nkd081": "Proizvodnja netkanog tekstila i predmeta od njega, osim odeće",
+    "rbrkd08": "C1395"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1396",
+    "nkd081": "Proizvodnja ostalog tehničkog i industrijskog tekstila",
+    "rbrkd08": "C1396"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1399",
+    "nkd081": "Proizvodnja ostalih tekstilnih predmeta",
+    "rbrkd08": "C1399"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "14",
+    "nkd081": "Proizvodnja odevnih predmeta",
+    "rbrkd08": "C14"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "141",
+    "nkd081": "Proizvodnja odeće, osim krznene",
+    "rbrkd08": "C141"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1411",
+    "nkd081": "Proizvodnja kožne odeće",
+    "rbrkd08": "C1411"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1412",
+    "nkd081": "Proizvodnja radne odeće",
+    "rbrkd08": "C1412"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1413",
+    "nkd081": "Proizvodnja ostale odeće",
+    "rbrkd08": "C1413"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1414",
+    "nkd081": "Proizvodnja rublja",
+    "rbrkd08": "C1414"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1419",
+    "nkd081": "Proizvodnja ostalih odevnih predmeta i pribora",
+    "rbrkd08": "C1419"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "142",
+    "nkd081": "Proizvodnja proizvoda od krzna",
+    "rbrkd08": "C142"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1420",
+    "nkd081": "Proizvodnja proizvoda od krzna",
+    "rbrkd08": "C1420"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "143",
+    "nkd081": "Proizvodnja pletene i kukičane odeće",
+    "rbrkd08": "C143"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1431",
+    "nkd081": "Proizvodnja pletenih i kukičanih čarapa",
+    "rbrkd08": "C1431"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1439",
+    "nkd081": "Proizvodnja ostale pletene i kukičane odeće",
+    "rbrkd08": "C1439"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "15",
+    "nkd081": "Proizvodnja kože i predmeta od kože",
+    "rbrkd08": "C15"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "151",
+    "nkd081": "Štavljenje i dorada kože; proizvodnja putničkih i ručnih torbi i kaiševa; dorada i bojenje krzna",
+    "rbrkd08": "C151"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1511",
+    "nkd081": "Štavljenje i dorada kože; dorada i bojenje krzna",
+    "rbrkd08": "C1511"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1512",
+    "nkd081": "Proizvodnja putnih i ručnih torbi i sl., saračkih proizvoda i kaiševa",
+    "rbrkd08": "C1512"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "152",
+    "nkd081": "Proizvodnja obuće",
+    "rbrkd08": "C152"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1520",
+    "nkd081": "Proizvodnja obuće",
+    "rbrkd08": "C1520"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "16",
+    "nkd081": "Prerada drveta i proizvodi od drveta, plute, slame i pruća, osim nameštaja",
+    "rbrkd08": "C16"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "161",
+    "nkd081": "Rezanje i obrada drveta",
+    "rbrkd08": "C161"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1610",
+    "nkd081": "Rezanje i obrada drveta",
+    "rbrkd08": "C1610"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "162",
+    "nkd081": "Proizvodnja proizvoda od drveta, plute, pruća i slame",
+    "rbrkd08": "C162"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1621",
+    "nkd081": "Proizvodnja furnira i ploča od drveta",
+    "rbrkd08": "C1621"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1622",
+    "nkd081": "Proizvodnja parketa",
+    "rbrkd08": "C1622"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1623",
+    "nkd081": "Proizvodnja ostale građevinske stolarije i elemenata",
+    "rbrkd08": "C1623"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1624",
+    "nkd081": "Proizvodnja drvne ambalaže",
+    "rbrkd08": "C1624"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1629",
+    "nkd081": "Proizvodnja ostalih proizvoda od drveta, plute, slame i pruća",
+    "rbrkd08": "C1629"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "17",
+    "nkd081": "Proizvodnja papira i proizvoda od papira",
+    "rbrkd08": "C170"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "171",
+    "nkd081": "Proizvodnja celuloze, papira i kartona",
+    "rbrkd08": "C171"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1711",
+    "nkd081": "Proizvodnja vlakana celuloze",
+    "rbrkd08": "C1711"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1712",
+    "nkd081": "Proizvodnja papira i kartona",
+    "rbrkd08": "C1712"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "172",
+    "nkd081": "Proizvodnja predmeta od papira i kartona",
+    "rbrkd08": "C172"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1721",
+    "nkd081": "Proizvodnja talasastog papira i kartona i ambalaže od papira i kartona",
+    "rbrkd08": "C1721"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1722",
+    "nkd081": "Proizvodnja predmeta od papira za ličnu upotrebu i upotrebu u domaćinstvu",
+    "rbrkd08": "C1722"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1723",
+    "nkd081": "Proizvodnja kancelarijskih predmeta od papira",
+    "rbrkd08": "C1723"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1724",
+    "nkd081": "Proizvodnja tapeta",
+    "rbrkd08": "C1724"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1729",
+    "nkd081": "Proizvodnja ostalih proizvoda od papira i kartona",
+    "rbrkd08": "C1729"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "18",
+    "nkd081": "Štampanje i umnožavanje audio i video zapisa",
+    "rbrkd08": "C18"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "181",
+    "nkd081": "Štampanje i štamparske usluge",
+    "rbrkd08": "C181"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1811",
+    "nkd081": "Štampanje novina",
+    "rbrkd08": "C1811"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1812",
+    "nkd081": "Ostalo štampanje",
+    "rbrkd08": "C1812"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1813",
+    "nkd081": "Usluge pripreme za štampu",
+    "rbrkd08": "C1813"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1814",
+    "nkd081": "Knjigovezačke i srodne usluge",
+    "rbrkd08": "C1814"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "182",
+    "nkd081": "Umnožavanje snimljenih zapisa",
+    "rbrkd08": "C182"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1820",
+    "nkd081": "Umnožavanje snimljenih zapisa",
+    "rbrkd08": "C1820"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "19",
+    "nkd081": "Proizvodnja koksa i derivata nafte",
+    "rbrkd08": "C19"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "191",
+    "nkd081": "Proizvodnja produkata koksovanja",
+    "rbrkd08": "C191"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1910",
+    "nkd081": "Proizvodnja produkata koksovanja",
+    "rbrkd08": "C1910"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "192",
+    "nkd081": "Proizvodnja derivata nafte",
+    "rbrkd08": "C192"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "1920",
+    "nkd081": "Proizvodnja derivata nafte",
+    "rbrkd08": "C1920"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "20",
+    "nkd081": "Proizvodnja hemikalija i hemijskih proizvoda",
+    "rbrkd08": "C20"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "201",
+    "nkd081": "Proizvodnja osnovnih hemikalija, veštačkih đubriva i azotnih jedinjenja, plastičnih i sintetičkih masa",
+    "rbrkd08": "C201"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2011",
+    "nkd081": "Proizvodnja industrijskih gasova",
+    "rbrkd08": "C2011"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2012",
+    "nkd081": "Proizvodnja sredstava za pripremanje boja i pigmenata",
+    "rbrkd08": "C2012"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2013",
+    "nkd081": "Proizvodnja ostalih osnovnih neorganskih hemikalija",
+    "rbrkd08": "C2013"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2014",
+    "nkd081": "Proizvodnja ostalih osnovnih organskih hemikalija",
+    "rbrkd08": "C2014"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2015",
+    "nkd081": "Proizvodnja veštačkih đubriva i azotnih jedinjenja",
+    "rbrkd08": "C2015"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2016",
+    "nkd081": "Proizvodnja plastičnih masa u primarnim oblicima",
+    "rbrkd08": "C2016"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2017",
+    "nkd081": "Proizvodnja sintetičkog kaučuka u primarnim oblicima",
+    "rbrkd08": "C2017"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "202",
+    "nkd081": "Proizvodnja pesticida i hemikalija za poljoprivredu",
+    "rbrkd08": "C202"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2020",
+    "nkd081": "Proizvodnja pesticida i hemikalija za poljoprivredu",
+    "rbrkd08": "C2020"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "203",
+    "nkd081": "Proizvodnja boja, lakova i sličnih premaza, grafičkih boja i kitova",
+    "rbrkd08": "C203"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2030",
+    "nkd081": "Proizvodnja boja, lakova i sličnih premaza, grafičkih boja i kitova",
+    "rbrkd08": "C2030"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "204",
+    "nkd081": "Proizvodnja deterdženata, sapuna drugih sredstava za čišćenje, poliranje, parfema i toaletnih preparata",
+    "rbrkd08": "C204"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2041",
+    "nkd081": "Proizvodnja deterdženata, sapuna sredstava za čišćenje i poliranje",
+    "rbrkd08": "C2041"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2042",
+    "nkd081": "Proizvodnja parfema i toaletnih preparata",
+    "rbrkd08": "C2042"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "205",
+    "nkd081": "Proizvodnja ostalih hemijskih proizvoda",
+    "rbrkd08": "C205"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2051",
+    "nkd081": "Proizvodnja eksploziva",
+    "rbrkd08": "C2051"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2052",
+    "nkd081": "Proizvodnja sredstava za lepljenje",
+    "rbrkd08": "C2052"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2053",
+    "nkd081": "Proizvodnja eteričnih ulja",
+    "rbrkd08": "C2053"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2059",
+    "nkd081": "Proizvodnja ostalih hemijskih proizvoda",
+    "rbrkd08": "C2059"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "206",
+    "nkd081": "Proizvodnja veštačkih vlakana",
+    "rbrkd08": "C206"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2060",
+    "nkd081": "Proizvodnja veštačkih vlakana",
+    "rbrkd08": "C2060"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "21",
+    "nkd081": "Proizvodnja osnovnih farmaceutskih proizvoda i preparata",
+    "rbrkd08": "C21"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "211",
+    "nkd081": "Proizvodnja osnovnih farmaceutskih proizvoda",
+    "rbrkd08": "C211"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2110",
+    "nkd081": "Proizvodnja osnovnih farmaceutskih proizvoda",
+    "rbrkd08": "C2110"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "212",
+    "nkd081": "Proizvodnja farmaceutskih preparata",
+    "rbrkd08": "C212"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2120",
+    "nkd081": "Proizvodnja farmaceutskih preparata",
+    "rbrkd08": "C2120"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "22",
+    "nkd081": "Proizvodnja proizvoda od gume i plastike",
+    "rbrkd08": "C22"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "221",
+    "nkd081": "Proizvodnja proizvoda od gume",
+    "rbrkd08": "C221"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2211",
+    "nkd081": "Proizvodnja guma za vozila, protektiranje guma za vozila",
+    "rbrkd08": "C2211"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2219",
+    "nkd081": "Proizvodnja ostalih proizvoda od gume",
+    "rbrkd08": "C2219"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "222",
+    "nkd081": "Proizvodnja proizvoda od plastike",
+    "rbrkd08": "C222"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2221",
+    "nkd081": "Proizvodnja ploča, listova, cevi i profila od plastike",
+    "rbrkd08": "C2221"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2222",
+    "nkd081": "Proizvodnja ambalaže od plastike",
+    "rbrkd08": "C2222"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2223",
+    "nkd081": "Proizvodnja predmeta od plastike za građevinarstvo",
+    "rbrkd08": "C2223"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2229",
+    "nkd081": "Proizvodnja ostalih proizvoda od plastike",
+    "rbrkd08": "C2229"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "23",
+    "nkd081": "Proizvodnja proizvoda od ostalih nemetalnih minerala",
+    "rbrkd08": "C23"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "231",
+    "nkd081": "Proizvodnja stakla i proizvoda od stakla",
+    "rbrkd08": "C231"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2311",
+    "nkd081": "Proizvodnja ravnog stakla",
+    "rbrkd08": "C2311"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2312",
+    "nkd081": "Oblikovanje i obrada ravnog stakla",
+    "rbrkd08": "C2312"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2313",
+    "nkd081": "Proizvodnja šupljeg stakla",
+    "rbrkd08": "C2313"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2314",
+    "nkd081": "Proizvodnja staklenih vlakana",
+    "rbrkd08": "C2314"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2319",
+    "nkd081": "Proizvodnja i obrada ostalog stakla, uključujući tehničke staklene proizvode",
+    "rbrkd08": "C2319"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "232",
+    "nkd081": "Proizvodnja vatrostalnih proizvoda",
+    "rbrkd08": "C232"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2320",
+    "nkd081": "Proizvodnja vatrostalnih proizvoda",
+    "rbrkd08": "C2320"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "233",
+    "nkd081": "Proizvodnja građevinskih materijala od gline",
+    "rbrkd08": "C233"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2331",
+    "nkd081": "Proizvodnja keramičkih pločica i ploča",
+    "rbrkd08": "C2331"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2332",
+    "nkd081": "Proizvodnja opeke, crepa i građevinskih proizvoda od pečene gline",
+    "rbrkd08": "C2332"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "234",
+    "nkd081": "Proizvodnja ostalih keramičkih i porcelanskih proizvoda",
+    "rbrkd08": "C234"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2341",
+    "nkd081": "Proizvodnja keramičkih predmeta za domaćinstvo i ukrasnih predmeta",
+    "rbrkd08": "C2341"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2342",
+    "nkd081": "Proizvodnja sanitarnih keramičkih proizvoda",
+    "rbrkd08": "C2342"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2343",
+    "nkd081": "Proizvodnja izolatora i izolacionog pribora od keramike",
+    "rbrkd08": "C2343"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2344",
+    "nkd081": "Proizvodnja ostalih tehničkih proizvoda od keramike",
+    "rbrkd08": "C2344"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2349",
+    "nkd081": "Proizvodnja ostalih keramičkih proizvoda",
+    "rbrkd08": "C2349"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "235",
+    "nkd081": "Proizvodnja cementa, kreča i gipsa",
+    "rbrkd08": "C235"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2351",
+    "nkd081": "Proizvodnja cementa",
+    "rbrkd08": "C2351"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2352",
+    "nkd081": "Proizvodnja kreča i gipsa",
+    "rbrkd08": "C2352"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "236",
+    "nkd081": "Proizvodnja proizvoda od betona, cementa i gipsa",
+    "rbrkd08": "C236"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2361",
+    "nkd081": "Proizvodnja proizvoda od betona namenjenih za građevinarstvo",
+    "rbrkd08": "C2361"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2362",
+    "nkd081": "Proizvodnja proizvoda od gipsa namenjenih za građevinarstvo",
+    "rbrkd08": "C2362"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2363",
+    "nkd081": "Proizvodnja svežeg betona",
+    "rbrkd08": "C2363"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2364",
+    "nkd081": "Proizvodnja maltera",
+    "rbrkd08": "C2364"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2365",
+    "nkd081": "Proizvodnja proizvoda od cementa s vlaknima",
+    "rbrkd08": "C2365"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2369",
+    "nkd081": "Proizvodnja ostalih proizvoda od betona, gipsa i cementa",
+    "rbrkd08": "C2369"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "237",
+    "nkd081": "Sečenje, oblikovanje i obrada kamena",
+    "rbrkd08": "C237"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2370",
+    "nkd081": "Sečenje, oblikovanje i obrada kamena",
+    "rbrkd08": "C2370"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "239",
+    "nkd081": "Proizvodnja brusnih i ostalih nemetalnih mineralnih proizvoda",
+    "rbrkd08": "C239"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2391",
+    "nkd081": "Proizvodnja brusnih proizvoda",
+    "rbrkd08": "C2391"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2399",
+    "nkd081": "Proizvodnja ostalih proizvoda od nemetalnih minerala",
+    "rbrkd08": "C2399"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "24",
+    "nkd081": "Proizvodnja osnovnih metala",
+    "rbrkd08": "C24"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "241",
+    "nkd081": "Proizvodnja sirovog gvožđa, čelika i ferolegura",
+    "rbrkd08": "C241"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2410",
+    "nkd081": "Proizvodnja sirovog gvožđa, čelika i ferolegura",
+    "rbrkd08": "C2410"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "242",
+    "nkd081": "Proizvodnja čeličnih cevi, šupljih profila i fitinga",
+    "rbrkd08": "C242"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2420",
+    "nkd081": "Proizvodnja čeličnih cevi, šupljih profila i fitinga",
+    "rbrkd08": "C2420"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "243",
+    "nkd081": "Proizvodnja ostalih proizvoda primarne prerade čelika",
+    "rbrkd08": "C243"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2431",
+    "nkd081": "Hladno valjanje šipki",
+    "rbrkd08": "C2431"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2432",
+    "nkd081": "Hladno valjanje pljosnatih proizvoda",
+    "rbrkd08": "C2432"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2433",
+    "nkd081": "Hladno oblikovanje profila",
+    "rbrkd08": "C2433"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2434",
+    "nkd081": "Hladno vučenje žice",
+    "rbrkd08": "C2434"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "244",
+    "nkd081": "Proizvodnja plemenitih i ostalih obojenih metala",
+    "rbrkd08": "C244"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2441",
+    "nkd081": "Proizvodnja plemenitih metala",
+    "rbrkd08": "C2441"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2442",
+    "nkd081": "Proizvodnja aluminijuma",
+    "rbrkd08": "C2442"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2443",
+    "nkd081": "Proizvodnja olova, cinka i kalaja",
+    "rbrkd08": "C2443"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2444",
+    "nkd081": "Proizvodnja bakra",
+    "rbrkd08": "C2444"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2445",
+    "nkd081": "Proizvodnja ostalih obojenih metala",
+    "rbrkd08": "C2445"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2446",
+    "nkd081": "Proizvodnja nuklearnog goriva",
+    "rbrkd08": "C2446"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "245",
+    "nkd081": "Livenje metala",
+    "rbrkd08": "C245"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2451",
+    "nkd081": "Livenje gvožđa",
+    "rbrkd08": "C2451"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2452",
+    "nkd081": "Livenje čelika",
+    "rbrkd08": "C2452"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2453",
+    "nkd081": "Livenje lakih metala",
+    "rbrkd08": "C2453"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2454",
+    "nkd081": "Livenje ostalih obojenih metala",
+    "rbrkd08": "C2454"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "25",
+    "nkd081": "Proizvodnja metalnih proizvoda, osim mašina i uređaja",
+    "rbrkd08": "C25"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "251",
+    "nkd081": "Proizvodnja metalnih konstrukcija",
+    "rbrkd08": "C251"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2511",
+    "nkd081": "Proizvodnja metalnih konstrukcija i delova konstrukcija",
+    "rbrkd08": "C2511"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2512",
+    "nkd081": "Proizvodnja metalnih vrata i prozora",
+    "rbrkd08": "C2512"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "252",
+    "nkd081": "Proizvodnja metalnih cisterni, rezervoara i kontejnera",
+    "rbrkd08": "C252"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2521",
+    "nkd081": "Proizvodnja kotlova i radijatora za centralno grejanje",
+    "rbrkd08": "C2521"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2529",
+    "nkd081": "Proizvodnja ostalih metalnih cisterni, rezervoara i kontejnera",
+    "rbrkd08": "C2529"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "253",
+    "nkd081": "Proizvodnja parnih kotlova, osim kotlova za centralno grejanje",
+    "rbrkd08": "C253"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2530",
+    "nkd081": "Proizvodnja parnih kotlova, osim kotlova za centralno grejanje",
+    "rbrkd08": "C2530"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "254",
+    "nkd081": "Proizvodnja oružja i municije",
+    "rbrkd08": "C254"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2540",
+    "nkd081": "Proizvodnja oružja i municije",
+    "rbrkd08": "C2540"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "255",
+    "nkd081": "Kovanje, presovanje, štancovanje i valjanje metala; metalurgija praha",
+    "rbrkd08": "C255"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2550",
+    "nkd081": "Kovanje, presovanje, štancovanje i valjanje metala; metalurgija praha",
+    "rbrkd08": "C2550"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "256",
+    "nkd081": "Obrada i prevlačenje metala; mašinska obrada metala",
+    "rbrkd08": "C256"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2561",
+    "nkd081": "Obrada i prevlačenje metala",
+    "rbrkd08": "C2561"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2562",
+    "nkd081": "Mašinska obrada metala",
+    "rbrkd08": "C2562"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "257",
+    "nkd081": "Proizvodnja sečiva, alata i metalne robe opšte namene",
+    "rbrkd08": "C257"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2571",
+    "nkd081": "Proizvodnja sečiva",
+    "rbrkd08": "C2571"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2572",
+    "nkd081": "Proizvodnja brava i okova",
+    "rbrkd08": "C2572"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2573",
+    "nkd081": "Proizvodnja alata",
+    "rbrkd08": "C2573"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "259",
+    "nkd081": "Proizvodnja ostalih metalnih proizvoda",
+    "rbrkd08": "C259"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2591",
+    "nkd081": "Proizvodnja čeličnih buradi i slične ambalaže",
+    "rbrkd08": "C2591"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2592",
+    "nkd081": "Proizvodnja ambalaže od lakih metala",
+    "rbrkd08": "C2592"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2593",
+    "nkd081": "Proizvodnja žičanih proizvoda, lanaca i opruga",
+    "rbrkd08": "C2593"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2594",
+    "nkd081": "Proizvodnja veznih elemenata i vijčanih mašinskih proizvoda",
+    "rbrkd08": "C2594"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2599",
+    "nkd081": "Proizvodnja ostalih metalnih proizvoda",
+    "rbrkd08": "C2599"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "26",
+    "nkd081": "Proizvodnja računara, elektronskih i optičkih proizvoda",
+    "rbrkd08": "C26"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "261",
+    "nkd081": "Proizvodnja elektronskih elemenata i ploča",
+    "rbrkd08": "C261"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2611",
+    "nkd081": "Proizvodnja elektronskih elemenata",
+    "rbrkd08": "C2611"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2612",
+    "nkd081": "Proizvodnja štampanih elektronskih ploča",
+    "rbrkd08": "C2612"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "262",
+    "nkd081": "Proizvodnja računara i periferne opreme",
+    "rbrkd08": "C262"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2620",
+    "nkd081": "Proizvodnja računara i periferne opreme",
+    "rbrkd08": "C2620"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "263",
+    "nkd081": "Proizvodnja komunikacione opreme",
+    "rbrkd08": "C263"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2630",
+    "nkd081": "Proizvodnja komunikacione opreme",
+    "rbrkd08": "C2630"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "264",
+    "nkd081": "Proizvodnja elektronskih uređaja za široku potrošnju",
+    "rbrkd08": "C264"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2640",
+    "nkd081": "Proizvodnja elektronskih uređaja za široku potrošnju",
+    "rbrkd08": "C2640"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "265",
+    "nkd081": "Proizvodnja mernih, istraživačkih i navigacionih instrumenata i aparata; proizvodnja satova",
+    "rbrkd08": "C265"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2651",
+    "nkd081": "Proizvodnja mernih, istraživačkih i navigacionih instrumenata i aparata",
+    "rbrkd08": "C2651"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2652",
+    "nkd081": "Proizvodnja satova",
+    "rbrkd08": "C2652"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "266",
+    "nkd081": "Proizvodnja opreme za zračenje, elektromedicinske i elektroterapeutske opreme",
+    "rbrkd08": "C266"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2660",
+    "nkd081": "Proizvodnja opreme za zračenje, elektromedicinske i elektroterapeutske opreme",
+    "rbrkd08": "C2660"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "267",
+    "nkd081": "Proizvodnja optičkih instrumenata i fotografske opreme",
+    "rbrkd08": "C267"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2670",
+    "nkd081": "Proizvodnja optičkih instrumenata i fotografske opreme",
+    "rbrkd08": "C2670"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "268",
+    "nkd081": "Proizvodnja magnetnih i optičkih nosilaca zapisa",
+    "rbrkd08": "C268"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2680",
+    "nkd081": "Proizvodnja magnetnih i optičkih nosilaca zapisa",
+    "rbrkd08": "C2680"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "27",
+    "nkd081": "Proizvodnja električne opreme",
+    "rbrkd08": "C27"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "271",
+    "nkd081": "Proizvodnja elektromotora, generatora, transformatora i opreme za distribuciju električne energije",
+    "rbrkd08": "C271"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2711",
+    "nkd081": "Proizvodnja elektromotora, generatora i transformatora",
+    "rbrkd08": "C2711"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2712",
+    "nkd081": "Proizvodnja opreme za distribuciju električne energije i opreme za upravljanje električnom energijom",
+    "rbrkd08": "C2712"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "272",
+    "nkd081": "Proizvodnja baterija i akumulatora",
+    "rbrkd08": "C272"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2720",
+    "nkd081": "Proizvodnja baterija i akumulatora",
+    "rbrkd08": "C2720"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "273",
+    "nkd081": "Proizvodnja žičane i kablovske opreme",
+    "rbrkd08": "C273"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2731",
+    "nkd081": "Proizvodnja kablova od optičkih vlakana",
+    "rbrkd08": "C2731"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2732",
+    "nkd081": "Proizvodnja ostalih elektronskih i električnih provodnika i kablova",
+    "rbrkd08": "C2732"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2733",
+    "nkd081": "Proizvodnja opreme za povezivanje žica i kablova",
+    "rbrkd08": "C2733"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "274",
+    "nkd081": "Proizvodnja opreme za osvetljenje",
+    "rbrkd08": "C274"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2740",
+    "nkd081": "Proizvodnja opreme za osvetljenje",
+    "rbrkd08": "C2740"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "275",
+    "nkd081": "Proizvodnja aparata za domaćinstvo",
+    "rbrkd08": "C275"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2751",
+    "nkd081": "Proizvodnja električnih aparata za domaćinstvo",
+    "rbrkd08": "C2751"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2752",
+    "nkd081": "Proizvodnja neelektričnih aparata za domaćinstvo",
+    "rbrkd08": "C2752"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "279",
+    "nkd081": "Proizvodnja ostale električne opreme",
+    "rbrkd08": "C279"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2790",
+    "nkd081": "Proizvodnja ostale električne opreme",
+    "rbrkd08": "C2790"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "28",
+    "nkd081": "Proizvodnja nepomenutih mašina i nepomenute opreme",
+    "rbrkd08": "C28"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "281",
+    "nkd081": "Proizvodnja mašina opšte namene",
+    "rbrkd08": "C281"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2811",
+    "nkd081": "Proizvodnja motora i turbina, osim za letelice i motorna vozila",
+    "rbrkd08": "C2811"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2812",
+    "nkd081": "Proizvodnja hidrauličnih pogonskih uređaja",
+    "rbrkd08": "C2812"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2813",
+    "nkd081": "Proizvodnja ostalih pumpi i kompresora",
+    "rbrkd08": "C2813"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2814",
+    "nkd081": "Proizvodnja ostalih slavina i ventila",
+    "rbrkd08": "C2814"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2815",
+    "nkd081": "Proizvodnja ležajeva, zupčanika i zupčastih pogonskih elemenata",
+    "rbrkd08": "C2815"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "282",
+    "nkd081": "Proizvodnja ostalih mašina opšte namene",
+    "rbrkd08": "C282"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2821",
+    "nkd081": "Proizvodnja industrijskih peći i gorionika",
+    "rbrkd08": "C2821"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2822",
+    "nkd081": "Proizvodnja opreme za podizanje i prenošenje",
+    "rbrkd08": "C2822"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2823",
+    "nkd081": "Proizvodnja kancelarijskih mašina i opreme, osim računara i računarske opreme",
+    "rbrkd08": "C2823"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2824",
+    "nkd081": "Proizvodnja ručnih pogonskih aparata sa mehanizmima",
+    "rbrkd08": "C2824"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2825",
+    "nkd081": "Proizvodnja rashladne i ventilacione opreme, osim za domaćinstvo",
+    "rbrkd08": "C2825"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2829",
+    "nkd081": "Proizvodnja ostalih mašina i aparata opšte namene",
+    "rbrkd08": "C2829"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "283",
+    "nkd081": "Proizvodnja mašina za poljoprivredu i šumarstvo",
+    "rbrkd08": "C283"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2830",
+    "nkd081": "Proizvodnja mašina za poljoprivredu i šumarstvo",
+    "rbrkd08": "C2830"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "284",
+    "nkd081": "Proizvodnja mašina za obradu metala i alatnih mašina",
+    "rbrkd08": "C284"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2841",
+    "nkd081": "Proizvodnja mašina za obradu metala",
+    "rbrkd08": "C2841"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2849",
+    "nkd081": "Proizvodnja ostalih alatnih mašina",
+    "rbrkd08": "C2849"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "289",
+    "nkd081": "Proizvodnja ostalih mašina za specijalne namene",
+    "rbrkd08": "C289"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2891",
+    "nkd081": "Proizvodnja mašina za metalurgiju",
+    "rbrkd08": "C2891"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2892",
+    "nkd081": "Proizvodnja mašina za rudnike, kamenolome i građevinarstvo",
+    "rbrkd08": "C2892"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2893",
+    "nkd081": "Proizvodnja mašina za industriju hrane, pića i duvana",
+    "rbrkd08": "C2893"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2894",
+    "nkd081": "Proizvodnja mašina za industriju tekstila, odeće i kože",
+    "rbrkd08": "C2894"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2895",
+    "nkd081": "Proizvodnja mašina za industriju papira i kartona",
+    "rbrkd08": "C2895"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2896",
+    "nkd081": "Proizvodnja mašina za izradu plastike i gume",
+    "rbrkd08": "C2896"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2899",
+    "nkd081": "Proizvodnja mašina za ostale specijalne namene",
+    "rbrkd08": "C2899"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "29",
+    "nkd081": "Proizvodnja motornih vozila, prikolica i poluprikolica",
+    "rbrkd08": "C29"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "291",
+    "nkd081": "Proizvodnja motornih vozila",
+    "rbrkd08": "C291"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2910",
+    "nkd081": "Proizvodnja motornih vozila",
+    "rbrkd08": "C2910"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "292",
+    "nkd081": "Proizvodnja karoserija za motorna vozila, prikolice i poluprikolice",
+    "rbrkd08": "C292"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2920",
+    "nkd081": "Proizvodnja karoserija za motorna vozila, prikolice i poluprikolice",
+    "rbrkd08": "C2920"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "293",
+    "nkd081": "Proizvodnja delova i pribora za motorna vozila i motore za njih",
+    "rbrkd08": "C293"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2931",
+    "nkd081": "Proizvodnja električne i elektronske opreme za motorna vozila",
+    "rbrkd08": "C2931"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "2932",
+    "nkd081": "Proizvodnja ostalih delova i dodatne opreme za motorna vozila",
+    "rbrkd08": "C2932"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "30",
+    "nkd081": "Proizvodnja ostalih saobraćajnih sredstava",
+    "rbrkd08": "C30"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "301",
+    "nkd081": "Izgradnja brodova i čamaca",
+    "rbrkd08": "C301"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3011",
+    "nkd081": "Izgradnja brodova i plovnih objekata",
+    "rbrkd08": "C3011"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3012",
+    "nkd081": "Izrada čamaca za sport i razonodu",
+    "rbrkd08": "C3012"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "302",
+    "nkd081": "Proizvodnja lokomotiva i šinskih vozila",
+    "rbrkd08": "C302"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3020",
+    "nkd081": "Proizvodnja lokomotiva i šinskih vozila",
+    "rbrkd08": "C3020"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "303",
+    "nkd081": "Proizvodnja vazdušnih i svemirskih letelica i odgovarajuće opreme",
+    "rbrkd08": "C303"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3030",
+    "nkd081": "Proizvodnja vazdušnih i svemirskih letelica i odgovarajuće opreme",
+    "rbrkd08": "C3030"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "304",
+    "nkd081": "Proizvodnja borbenih vojnih vozila",
+    "rbrkd08": "C304"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3040",
+    "nkd081": "Proizvodnja borbenih vojnih vozila",
+    "rbrkd08": "C3040"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "309",
+    "nkd081": "Proizvodnja ostalih transportnih sredstava",
+    "rbrkd08": "C309"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3091",
+    "nkd081": "Proizvodnja motocikala",
+    "rbrkd08": "C3091"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3092",
+    "nkd081": "Proizvodnja bicikala i invalidskih kolica",
+    "rbrkd08": "C3092"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3099",
+    "nkd081": "Proizvodnja ostale transportne opreme",
+    "rbrkd08": "C3099"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "31",
+    "nkd081": "Proizvodnja nameštaja",
+    "rbrkd08": "C31"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "310",
+    "nkd081": "Proizvodnja nameštaja",
+    "rbrkd08": "C310"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3101",
+    "nkd081": "Proizvodnja nameštaja za poslovne i prodajne prostore",
+    "rbrkd08": "C3101"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3102",
+    "nkd081": "Proizvodnja kuhinjskog nameštaja",
+    "rbrkd08": "C3102"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3103",
+    "nkd081": "Proizvodnja madraca",
+    "rbrkd08": "C3103"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3109",
+    "nkd081": "Proizvodnja ostalog nameštaja",
+    "rbrkd08": "C3109"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "32",
+    "nkd081": "Ostale prerađivačke delatnosti",
+    "rbrkd08": "C32"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "321",
+    "nkd081": "Proizvodnja nakita, bižuterije i sličnih predmeta",
+    "rbrkd08": "C321"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3211",
+    "nkd081": "Kovanje novca",
+    "rbrkd08": "C3211"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3212",
+    "nkd081": "Proizvodnja nakita i srodnih predmeta",
+    "rbrkd08": "C3212"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3213",
+    "nkd081": "Proizvodnja imitacije nakita i srodnih proizvoda",
+    "rbrkd08": "C3213"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "322",
+    "nkd081": "Proizvodnja muzičkih instrumenata",
+    "rbrkd08": "C322"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3220",
+    "nkd081": "Proizvodnja muzičkih instrumenata",
+    "rbrkd08": "C3220"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "323",
+    "nkd081": "Proizvodnja sportske opreme",
+    "rbrkd08": "C323"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3230",
+    "nkd081": "Proizvodnja sportske opreme",
+    "rbrkd08": "C3230"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "324",
+    "nkd081": "Proizvodnja igara i igračaka",
+    "rbrkd08": "C324"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3240",
+    "nkd081": "Proizvodnja igara i igračaka",
+    "rbrkd08": "C3240"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "325",
+    "nkd081": "Proizvodnja medicinskih i stomatoloških instrumenata i materijala",
+    "rbrkd08": "C325"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3250",
+    "nkd081": "Proizvodnja medicinskih i stomatoloških instrumenata i materijala",
+    "rbrkd08": "C3250"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "329",
+    "nkd081": "Ostale prerađivačke delatnosti",
+    "rbrkd08": "C329"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3291",
+    "nkd081": "Proizvodnja metli i četki",
+    "rbrkd08": "C3291"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3299",
+    "nkd081": "Proizvodnja ostalih predmeta",
+    "rbrkd08": "C3299"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "33",
+    "nkd081": "Popravka i montaža mašina i opreme",
+    "rbrkd08": "C33"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "331",
+    "nkd081": "Popravka metalnih proizvoda, mašina i opreme",
+    "rbrkd08": "C331"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3311",
+    "nkd081": "Popravka metalnih proizvoda",
+    "rbrkd08": "C3311"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3312",
+    "nkd081": "Popravka mašina",
+    "rbrkd08": "C3312"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3313",
+    "nkd081": "Popravka elektronske i optičke opreme",
+    "rbrkd08": "C3313"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3314",
+    "nkd081": "Popravka električne opreme",
+    "rbrkd08": "C3314"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3315",
+    "nkd081": "Popravka i održavanje brodova i čamaca",
+    "rbrkd08": "C3315"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3316",
+    "nkd081": "Popravka i održavanje letelica i svemirskih letelica",
+    "rbrkd08": "C3316"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3317",
+    "nkd081": "Popravka i održavanje druge transportne opreme",
+    "rbrkd08": "C3317"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3319",
+    "nkd081": "Popravka ostale opreme",
+    "rbrkd08": "C3319"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "332",
+    "nkd081": "Montaža industrijskih mašina i opreme",
+    "rbrkd08": "C332"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3320",
+    "nkd081": "Montaža industrijskih mašina i opreme",
+    "rbrkd08": "C3320"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "D",
+    "nkd081": "D - Snabdevanje električnom energijom, gasom, parom i klimatizacija",
+    "rbrkd08": "D"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "35",
+    "nkd081": "Snabdevanje električnom energijom, gasom, parom i klimatizacija",
+    "rbrkd08": "D35"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "351",
+    "nkd081": "Proizvodnja, prenos i distribucija električne energije",
+    "rbrkd08": "D351"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3511",
+    "nkd081": "Proizvodnja električne energije",
+    "rbrkd08": "D3511"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3512",
+    "nkd081": "Prenos električne energije",
+    "rbrkd08": "D3512"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3513",
+    "nkd081": "Distribucija električne energije",
+    "rbrkd08": "D3513"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3514",
+    "nkd081": "Trgovina električnom energijom",
+    "rbrkd08": "D3514"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "352",
+    "nkd081": "Proizvodnja gasa i distribucija gasovitih goriva gasovodima",
+    "rbrkd08": "D352"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3521",
+    "nkd081": "Proizvodnja gasa",
+    "rbrkd08": "D3521"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3522",
+    "nkd081": "Distribucija gasovitih goriva gasovodom",
+    "rbrkd08": "D3522"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3523",
+    "nkd081": "Trgovina gasovitim gorivima preko gasovodne mreže",
+    "rbrkd08": "D3523"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "353",
+    "nkd081": "Snabdevanje parom i klimatizacija",
+    "rbrkd08": "D353"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3530",
+    "nkd081": "Snabdevanje parom i klimatizacija",
+    "rbrkd08": "D3530"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "E",
+    "nkd081": "E - Snabdevanje vodom; upravljanje otpadnim vodama, kontrolisanje procesa uklanjanja otpada i slične aktivnosti",
+    "rbrkd08": "E"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "36",
+    "nkd081": "Skupljanje, prečišćavanje i distribucija vode",
+    "rbrkd08": "E36"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "360",
+    "nkd081": "Skupljanje, prečišćavanje i distribucija vode",
+    "rbrkd08": "E360"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3600",
+    "nkd081": "Skupljanje, prečišćavanje i distribucija vode",
+    "rbrkd08": "E3600"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "37",
+    "nkd081": "Uklanjanje otpadnih voda",
+    "rbrkd08": "E37"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "370",
+    "nkd081": "Uklanjanje otpadnih voda",
+    "rbrkd08": "E370"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3700",
+    "nkd081": "Uklanjanje otpadnih voda",
+    "rbrkd08": "E3700"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "38",
+    "nkd081": "Sakupljanje,  tretman i odlaganje otpada; ponovno iskorišćavanje otpadnih materija",
+    "rbrkd08": "E38"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "381",
+    "nkd081": "Skupljanje otpada",
+    "rbrkd08": "E381"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3811",
+    "nkd081": "Skupljanje otpada koji nije opasan",
+    "rbrkd08": "E3811"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3812",
+    "nkd081": "Skupljanje opasnog otpada",
+    "rbrkd08": "E3812"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "382",
+    "nkd081": "Tretman i odlaganje otpada",
+    "rbrkd08": "E382"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3821",
+    "nkd081": "Tretman i odlaganje otpada koji nije opasan",
+    "rbrkd08": "E3821"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3822",
+    "nkd081": "Tretman i odlaganje opasnog otpada",
+    "rbrkd08": "E3822"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "383",
+    "nkd081": "Ponovna upotreba materijala",
+    "rbrkd08": "E383"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3831",
+    "nkd081": "Demontaža olupina",
+    "rbrkd08": "E3831"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3832",
+    "nkd081": "Ponovna upotreba razvrstanih materijala",
+    "rbrkd08": "E3832"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "39",
+    "nkd081": "Sanacija, rekultivacija i druge usluge u oblasti upravljanja otpadom",
+    "rbrkd08": "E39"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "390",
+    "nkd081": "Sanacija, rekultivacija i duge usluge u oblasti upravljanja otpadom",
+    "rbrkd08": "E390"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "3900",
+    "nkd081": "Sanacija, rekultivacija i druge usluge u oblasti upravljanja otpadom",
+    "rbrkd08": "E3900"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "F",
+    "nkd081": "F - Građevinarstvo",
+    "rbrkd08": "F"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "41",
+    "nkd081": "Izgradnja zgrada",
+    "rbrkd08": "F41"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "411",
+    "nkd081": "Razrada građevinskih projekata",
+    "rbrkd08": "F411"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4110",
+    "nkd081": "Razrada građevinskih projekata",
+    "rbrkd08": "F4110"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "412",
+    "nkd081": "Izgradnja stambenih i nestambenih zgrada",
+    "rbrkd08": "F412"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4120",
+    "nkd081": "Izgradnja stambenih i nestambenih zgrada",
+    "rbrkd08": "F4120"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "42",
+    "nkd081": "Izgradnja ostalih građevina",
+    "rbrkd08": "F42"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "421",
+    "nkd081": "Izgradnja puteva i železničkih pruga",
+    "rbrkd08": "F421"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4211",
+    "nkd081": "Izgradnja puteva i autoputeva",
+    "rbrkd08": "F4211"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4212",
+    "nkd081": "Izgradnja železničkih pruga i podzemnih železnica",
+    "rbrkd08": "F4212"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4213",
+    "nkd081": "Izgradnja mostova i tunela",
+    "rbrkd08": "F4213"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "422",
+    "nkd081": "Izgradnja cevovoda, električnih i komunikacionih vodova",
+    "rbrkd08": "F422"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4221",
+    "nkd081": "Izgradnja cevovoda",
+    "rbrkd08": "F4221"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4222",
+    "nkd081": "Izgradnja električnih i telekomunikacionih vodova",
+    "rbrkd08": "F4222"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "429",
+    "nkd081": "Izgradnja ostalih građevina",
+    "rbrkd08": "F429"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4291",
+    "nkd081": "Izgradnja hidrotehničkih objekata",
+    "rbrkd08": "F4291"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4299",
+    "nkd081": "Izgradnja ostalih nepomenutih građevina",
+    "rbrkd08": "F4299"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "43",
+    "nkd081": "Specijalizovani građevinski radovi",
+    "rbrkd08": "F43"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "431",
+    "nkd081": "Rušenje i pripremanje gradilišta",
+    "rbrkd08": "F431"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4311",
+    "nkd081": "Rušenje objekata",
+    "rbrkd08": "F4311"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4312",
+    "nkd081": "Pripremna gradilišta",
+    "rbrkd08": "F4312"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4313",
+    "nkd081": "Ispitivanje terena bušenjem i sondiranjem",
+    "rbrkd08": "F4313"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "432",
+    "nkd081": "Instalacioni radovi u građevinarstvu",
+    "rbrkd08": "F432"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4321",
+    "nkd081": "Postavljanje električnih instalacija",
+    "rbrkd08": "F4321"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4322",
+    "nkd081": "Postavljanje vodovodnih, kanalizacionih, grejnih i klimatizacionih sistema",
+    "rbrkd08": "F4322"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4329",
+    "nkd081": "Ostali instalacioni radovi u građevinarstvu",
+    "rbrkd08": "F4329"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "433",
+    "nkd081": "Završni građevinsko-zanatski radovi",
+    "rbrkd08": "F433"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4331",
+    "nkd081": "Malterisanje",
+    "rbrkd08": "F4331"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4332",
+    "nkd081": "Ugradnja stolarije",
+    "rbrkd08": "F4332"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4333",
+    "nkd081": "Postavljanje podnih i zidnih obloga",
+    "rbrkd08": "F4333"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4334",
+    "nkd081": "Bojenje i zastakljivanje",
+    "rbrkd08": "F4334"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4339",
+    "nkd081": "Ostali završni radovi",
+    "rbrkd08": "F4339"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "439",
+    "nkd081": "Ostali specifični građevinski radovi",
+    "rbrkd08": "F439"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4391",
+    "nkd081": "Krovni radovi",
+    "rbrkd08": "F4391"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4399",
+    "nkd081": "Ostali nepomenuti specifični građevinski radovi",
+    "rbrkd08": "F4399"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "GN",
+    "nkd081": "Ostali sektori ekonomskih delatnosti",
+    "rbrkd08": "G 45-N82"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "GNX47",
+    "nkd081": "GNX47 - Poslovne usluge - ukupno",
+    "rbrkd08": "G 45-N82XG47"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "GX467",
+    "nkd081": "Sektori uslužnih delatnosti, izuzev grupe Trgovina na veliko otpacima i ostacima",
+    "rbrkd08": "G 45-U99XG4677"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "G",
+    "nkd081": "G - Trgovina na veliko i trgovina na malo; popravka motornih vozila i motocikala",
+    "rbrkd08": "G0"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "45",
+    "nkd081": "Trgovina na veliko i trgovina na malo i popravka motornih vozila i motocikala",
+    "rbrkd08": "G450"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "451",
+    "nkd081": "Trgovina motornim vozilima",
+    "rbrkd08": "G451"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4511",
+    "nkd081": "Trgovina automobilima i lakim motornim vozilima",
+    "rbrkd08": "G4511"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4519",
+    "nkd081": "Trgovina ostalim motornim vozilima",
+    "rbrkd08": "G4519"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "452",
+    "nkd081": "Održavanje i popravka motornih vozila",
+    "rbrkd08": "G452"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4520",
+    "nkd081": "Održavanje i popravka motornih vozila",
+    "rbrkd08": "G4520"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "453",
+    "nkd081": "Trgovina delovima i priborom za motorna vozila",
+    "rbrkd08": "G453"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4531",
+    "nkd081": "Trgovina na veliko delovima i opremom za motorna vozila",
+    "rbrkd08": "G4531"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4532",
+    "nkd081": "Trgovina na malo delovima i opremom za motorna vozila",
+    "rbrkd08": "G4532"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "454",
+    "nkd081": "Trgovina motociklima, delovima i priborom, održavanje i popravka motocikala",
+    "rbrkd08": "G454"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4540",
+    "nkd081": "Trgovina motociklima, delovima i priborom, održavanje i popravka motocikala",
+    "rbrkd08": "G4540"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "46",
+    "nkd081": "Trgovina na veliko, osim trgovine motornim vozilima i motociklima",
+    "rbrkd08": "G46"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "461",
+    "nkd081": "Trgovina na veliko za naknadu",
+    "rbrkd08": "G461"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4611",
+    "nkd081": "Posredovanje u prodaji poljoprivrednih sirovina, životinja, tekstilnih sirovina i poluproizvoda",
+    "rbrkd08": "G4611"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4612",
+    "nkd081": "Posredovanje u prodaji goriva, ruda, metala i industrijskih hemikalija",
+    "rbrkd08": "G4612"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4613",
+    "nkd081": "Posredovanje u prodaji drvne građe i građevinskog materijala",
+    "rbrkd08": "G4613"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4614",
+    "nkd081": "Posredovanje u prodaji mašina, industrijske opreme, brodova i aviona",
+    "rbrkd08": "G4614"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4615",
+    "nkd081": "Posredovanje u prodaji nameštaja, predmeta za domaćinstvo i metalne robe",
+    "rbrkd08": "G4615"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4616",
+    "nkd081": "Posredovanje u prodaji tekstila, odeće, krzna, obuće i predmeta od kože",
+    "rbrkd08": "G4616"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4617",
+    "nkd081": "Posredovanje u prodaji hrane, pića i duvana",
+    "rbrkd08": "G4617"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4618",
+    "nkd081": "Specijalizovano posredovanje u prodaji posebnih proizvoda",
+    "rbrkd08": "G4618"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4619",
+    "nkd081": "Posredovanje u prodaji raznovrsnih proizvoda",
+    "rbrkd08": "G4619"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "462",
+    "nkd081": "Trgovina na veliko poljoprivrednim sirovinama i životinjama",
+    "rbrkd08": "G462"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4621",
+    "nkd081": "Trgovina na veliko žitom, sirovim duvanom, semenjem i hranom za životinje",
+    "rbrkd08": "G4621"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4622",
+    "nkd081": "Trgovina na veliko cvećem i sadnicama",
+    "rbrkd08": "G4622"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4623",
+    "nkd081": "Trgovina na veliko životinjama",
+    "rbrkd08": "G4623"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4624",
+    "nkd081": "Trgovina na veliko sirovom, nedovršenom i dovršenom kožom",
+    "rbrkd08": "G4624"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "463",
+    "nkd081": "Trgovina na veliko hranom, pićima i duvanom",
+    "rbrkd08": "G463"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4631",
+    "nkd081": "Trgovina na veliko voćem i povrćem",
+    "rbrkd08": "G4631"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4632",
+    "nkd081": "Trgovina na veliko mesom i proizvodima od mesa",
+    "rbrkd08": "G4632"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4633",
+    "nkd081": "Trgovina na veliko mlečnim proizvodima, jajima i jestivim uljima i mastima",
+    "rbrkd08": "G4633"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4634",
+    "nkd081": "Trgovina na veliko pićima",
+    "rbrkd08": "G4634"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4635",
+    "nkd081": "Trgovina na veliko duvanskim proizvodima",
+    "rbrkd08": "G4635"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4636",
+    "nkd081": "Trgovina na veliko šećerom, čokoladom i slatkišima",
+    "rbrkd08": "G4636"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4637",
+    "nkd081": "Trgovina na veliko kafom, čajevima, kakaom i začinima",
+    "rbrkd08": "G4637"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4638",
+    "nkd081": "Trgovina na veliko ostalom hranom, uključujući ribu, ljuskare i mekušce",
+    "rbrkd08": "G4638"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4639",
+    "nkd081": "Nespecijalizovana trgovina na veliko hranom, pićima i duvanom",
+    "rbrkd08": "G4639"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "464",
+    "nkd081": "Trgovina na veliko predmetima za domaćinstvo",
+    "rbrkd08": "G464"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4641",
+    "nkd081": "Trgovina na veliko tekstilom",
+    "rbrkd08": "G4641"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4642",
+    "nkd081": "Trgovina na veliko odećom i obućom",
+    "rbrkd08": "G4642"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4643",
+    "nkd081": "Trgovina na veliko električnim aparatima za domaćinstvo",
+    "rbrkd08": "G4643"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4644",
+    "nkd081": "Trgovina na veliko porculanom, staklenom robom i sredstvima za čišćenje",
+    "rbrkd08": "G4644"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4645",
+    "nkd081": "Trgovina na veliko parfimerijskim i kozmetičkim proizvodima",
+    "rbrkd08": "G4645"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4646",
+    "nkd081": "Trgovina na veliko farmaceutskim proizvodima",
+    "rbrkd08": "G4646"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4647",
+    "nkd081": "Trgovina na veliko nameštajem, tepisima i opremom za osvetljenje",
+    "rbrkd08": "G4647"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4648",
+    "nkd081": "Trgovina na veliko satovima i nakitom",
+    "rbrkd08": "G4648"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4649",
+    "nkd081": "Trgovina na veliko ostalim proizvodima za domaćinstvo",
+    "rbrkd08": "G4649"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "465",
+    "nkd081": "Trgovina na veliko informaciono-komunikacionom opremom",
+    "rbrkd08": "G465"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4651",
+    "nkd081": "Trgovina na veliko računarima, računarskom opremom i softverima",
+    "rbrkd08": "G4651"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4652",
+    "nkd081": "Trgovina na veliko elektronskim i telekomunikacionim delovima i opremom",
+    "rbrkd08": "G4652"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "466",
+    "nkd081": "Trgovina na veliko ostalim mašinama, opremom i priborom",
+    "rbrkd08": "G466"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4661",
+    "nkd081": "Trgovina na veliko poljoprivrednim mašinama, opremom i priborom",
+    "rbrkd08": "G4661"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4662",
+    "nkd081": "Trgovina na veliko alatnim mašinama",
+    "rbrkd08": "G4662"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4663",
+    "nkd081": "Trgovina na veliko rudarskim i građevinskim mašinama",
+    "rbrkd08": "G4663"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4664",
+    "nkd081": "Trgovina na veliko mašinama za tekstilnu industriju i mašinama za šivenje i pletenje",
+    "rbrkd08": "G4664"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4665",
+    "nkd081": "Trgovina na veliko kancelarijskim nameštajem",
+    "rbrkd08": "G4665"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4666",
+    "nkd081": "Trgovina na veliko ostalim kancelarijskim mašinama i opremom",
+    "rbrkd08": "G4666"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4669",
+    "nkd081": "Trgovina na veliko ostalim mašinama i opremom",
+    "rbrkd08": "G4669"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "467",
+    "nkd081": "Ostala specijalizovana trgovina na veliko",
+    "rbrkd08": "G467"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4671",
+    "nkd081": "Trgovina na veliko čvrstim, tečnim i gasovitim gorivima i sličnim proizvodima",
+    "rbrkd08": "G4671"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4672",
+    "nkd081": "Trgovina na veliko metalima i metalnim rudama",
+    "rbrkd08": "G4672"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4673",
+    "nkd081": "Trgovina na veliko drvetom, građevinskim materijalom i sanitarnom opremom",
+    "rbrkd08": "G4673"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4674",
+    "nkd081": "Trgovina na veliko metalnom robom, instalacionim materijalima, opremom i priborom za grejanje",
+    "rbrkd08": "G4674"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4675",
+    "nkd081": "Trgovina na veliko hemijskim proizvodima",
+    "rbrkd08": "G4675"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4676",
+    "nkd081": "Trgovina na veliko ostalim poluproizvodima",
+    "rbrkd08": "G4676"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4677",
+    "nkd081": "Trgovina na veliko otpacima i ostacima",
+    "rbrkd08": "G4677"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "469",
+    "nkd081": "Nespecijalizovana trgovina na veliko",
+    "rbrkd08": "G469"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4690",
+    "nkd081": "Nespecijalizovana trgovina na veliko",
+    "rbrkd08": "G4690"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "47",
+    "nkd081": "Trgovina na malo, osim trgovine motornim vozilima i motociklima",
+    "rbrkd08": "G47"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "471",
+    "nkd081": "Trgovina na malo u nespecijalizovanim prodavnicama",
+    "rbrkd08": "G471"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4711",
+    "nkd081": "Trgovina na malo u nespecijalizovanim prodavnicama, pretežno hranom, pićima i duvanom",
+    "rbrkd08": "G4711"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4719",
+    "nkd081": "Ostala trgovina na malo u nespecijalizovanim prodavnicama",
+    "rbrkd08": "G4719"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "472",
+    "nkd081": "Trgovina na malo hranom, pićima i duvanom u specijalizovanim prodavnicama",
+    "rbrkd08": "G472"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4721",
+    "nkd081": "Trgovina na malo voćem i povrćem u specijalizovanim prodavnicama",
+    "rbrkd08": "G4721"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4722",
+    "nkd081": "Trgovina na malo mesom i proizvodima od mesa u specijalizovanim prodavnicama",
+    "rbrkd08": "G4722"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4723",
+    "nkd081": "Trgovina na malo ribom, ljuskarima i mekušcima u specijalizovanim prodavnicama",
+    "rbrkd08": "G4723"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4724",
+    "nkd081": "Trgovina na malo hlebom, testeninom, kolačima i slatkišima u specijalizovanim prodavnicama",
+    "rbrkd08": "G4724"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4725",
+    "nkd081": "Trgovina na malo pićima u specijalizovanim prodavnicama",
+    "rbrkd08": "G4725"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4726",
+    "nkd081": "Trgovina na malo proizvodima od duvana u specijalizovanim prodavnicama",
+    "rbrkd08": "G4726"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4729",
+    "nkd081": "Ostala trgovina na malo hranom u specijalizovanim prodavnicama",
+    "rbrkd08": "G4729"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "473",
+    "nkd081": "Trgovina na malo motornim gorivima u specijalizovanim prodavnicama",
+    "rbrkd08": "G473"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4730",
+    "nkd081": "Trgovina na malo motornim gorivima u specijalizovanim prodavnicama",
+    "rbrkd08": "G4730"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "474",
+    "nkd081": "Trgovina na malo informaciono-komunikacionom opremom u specijalizovanim prodavnicama",
+    "rbrkd08": "G474"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4741",
+    "nkd081": "Trgovina na malo računarima, perifernim jedinicama i softverom u specijalizovanim prodavnicama",
+    "rbrkd08": "G4741"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4742",
+    "nkd081": "Trgovina na malo telekomunikacionom opremom u specijalizovanim prodavnicama",
+    "rbrkd08": "G4742"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4743",
+    "nkd081": "Trgovina na malo audio i video opremom u specijalizovanim prodavnicama",
+    "rbrkd08": "G4743"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "475",
+    "nkd081": "Trgovina na malo ostalom opremom za domaćinstvo u specijalizovanim prodavnicama",
+    "rbrkd08": "G475"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4751",
+    "nkd081": "Trgovina na malo tekstilom u specijalizovanim prodavnicama",
+    "rbrkd08": "G4751"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4752",
+    "nkd081": "Trgovina na malo metalnom robom, bojama i staklom u specijalizovanim prodavnicama",
+    "rbrkd08": "G4752"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4753",
+    "nkd081": "Trgovina na malo tepisima, zidnim i podnim oblogama u specijalizovanim prodavnicama",
+    "rbrkd08": "G4753"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4754",
+    "nkd081": "Trgovina na malo električnim aparatima za domaćinstvo u specijalizovanim prodavnicama",
+    "rbrkd08": "G4754"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4759",
+    "nkd081": "Trgovina na malo nameštajem, opremom za osvetljenje i ostalim predmetima za domaćinstvo u specijalizovanim prodavnicama",
+    "rbrkd08": "G4759"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "476",
+    "nkd081": "Trgovina na malo predmetima za kulturu i rekreaciju u specijalizovanim prodavnicama",
+    "rbrkd08": "G476"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4761",
+    "nkd081": "Trgovina na malo knjigama u specijalizovanim prodavnicama",
+    "rbrkd08": "G4761"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4762",
+    "nkd081": "Trgovina na malo novinama i kancelarijskim materijalom u specijalizovanim prodavnicama",
+    "rbrkd08": "G4762"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4763",
+    "nkd081": "Trgovina na malo muzičkim i video zapisima u specijalizovanim prodavnicama",
+    "rbrkd08": "G4763"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4764",
+    "nkd081": "Trgovina na malo sportskom opremom u specijalizovanim prodavnicama",
+    "rbrkd08": "G4764"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4765",
+    "nkd081": "Trgovina na malo igrama i igračkama u specijalizovanim prodavnicama",
+    "rbrkd08": "G4765"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "477",
+    "nkd081": "Trgovina na malo ostalom robom u specijalizovanim prodavnicama",
+    "rbrkd08": "G477"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4771",
+    "nkd081": "Trgovina na malo odećom u specijalizovanim prodavnicama",
+    "rbrkd08": "G4771"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4772",
+    "nkd081": "Trgovina na malo obućom i predmetima od kože u specijalizovanim prodavnicama",
+    "rbrkd08": "G4772"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4773",
+    "nkd081": "Trgovina na malo farmaceutskim proizvodima u specijalizovanim prodavnicama – apotekama",
+    "rbrkd08": "G4773"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4774",
+    "nkd081": "Trgovina na malo medicinskim i ortopedskim pomagalima u specijalizovanim prodavnicama",
+    "rbrkd08": "G4774"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4775",
+    "nkd081": "Trgovina na malo kozmetičkim i toaletnim proizvodima u specijalizovanim prodavnicama",
+    "rbrkd08": "G4775"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4776",
+    "nkd081": "Trgovina na malo cvećem, sadnicama, semenjem, đubrivima, kućnim ljubimcima i hranom za kućne ljubimce u specijalizovanim prodavnicama",
+    "rbrkd08": "G4776"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4777",
+    "nkd081": "Trgovina na malo satovima i nakitom u specijalizovanim prodavnicama",
+    "rbrkd08": "G4777"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4778",
+    "nkd081": "Ostala trgovina na malo novim proizvodima u specijalizovanim prodavnicama",
+    "rbrkd08": "G4778"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4779",
+    "nkd081": "Trgovina na malo polovnom robom u prodavnicama",
+    "rbrkd08": "G4779"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "478",
+    "nkd081": "Trgovina na malo na tezgama i pijacama",
+    "rbrkd08": "G478"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4781",
+    "nkd081": "Trgovina na malo hranom, pićima i duvanskim proizvodima na tezgama i pijacama",
+    "rbrkd08": "G4781"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4782",
+    "nkd081": "Trgovina na malo tekstilom, odećom i obućom na tezgama i pijacama",
+    "rbrkd08": "G4782"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4789",
+    "nkd081": "Trgovina na malo ostalom robom na tezgama i pijacama",
+    "rbrkd08": "G4789"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "479",
+    "nkd081": "Trgovina na malo van prodavnica, tezgi i pijaca",
+    "rbrkd08": "G479"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4791",
+    "nkd081": "Trgovina na malo posredstvom pošte ili preko interneta",
+    "rbrkd08": "G4791"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4799",
+    "nkd081": "Ostala trgovina na malo izvan prodavnica, tezgi i pijaca",
+    "rbrkd08": "G4799"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "H",
+    "nkd081": "H - Saobraćaj i skladištenje",
+    "rbrkd08": "H"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "49",
+    "nkd081": "Kopneni saobraćaj i cevovodni transport",
+    "rbrkd08": "H49"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "491",
+    "nkd081": "Železnički prevoz putnika, daljinski i regionalni",
+    "rbrkd08": "H491"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4910",
+    "nkd081": "Železnički prevoz putnika, daljinski i regionalni",
+    "rbrkd08": "H4910"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "492",
+    "nkd081": "Železnički prevoz tereta",
+    "rbrkd08": "H492"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4920",
+    "nkd081": "Železnički prevoz tereta",
+    "rbrkd08": "H4920"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "493",
+    "nkd081": "Ostali kopneni prevoz putnika",
+    "rbrkd08": "H493"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4931",
+    "nkd081": "Gradski i prigradski kopneni prevoz putnika",
+    "rbrkd08": "H4931"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4932",
+    "nkd081": "Taksi prevoz",
+    "rbrkd08": "H4932"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4939",
+    "nkd081": "Ostali prevoz putnika u kopnenom saobraćaju",
+    "rbrkd08": "H4939"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "494",
+    "nkd081": "Drumski prevoz tereta i usluge preseljenja",
+    "rbrkd08": "H494"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4941",
+    "nkd081": "Drumski prevoz tereta",
+    "rbrkd08": "H4941"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4942",
+    "nkd081": "Usluge preseljenja",
+    "rbrkd08": "H4942"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "495",
+    "nkd081": "Cevovodni transport",
+    "rbrkd08": "H495"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "4950",
+    "nkd081": "Cevovodni transport",
+    "rbrkd08": "H4950"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "50",
+    "nkd081": "Vodeni saobraćaj",
+    "rbrkd08": "H50"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "501",
+    "nkd081": "Pomorski i priobalni prevoz putnika",
+    "rbrkd08": "H501"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5010",
+    "nkd081": "Pomorski i priobalni prevoz putnika",
+    "rbrkd08": "H5010"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "502",
+    "nkd081": "Pomorski i priobalni prevoz tereta",
+    "rbrkd08": "H502"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5020",
+    "nkd081": "Pomorski i priobalni prevoz tereta",
+    "rbrkd08": "H5020"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "503",
+    "nkd081": "Prevoz putnika unutrašnjim plovnim putevima",
+    "rbrkd08": "H503"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5030",
+    "nkd081": "Prevoz putnika unutrašnjim plovnim putevima",
+    "rbrkd08": "H5030"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "504",
+    "nkd081": "Prevoz tereta unutrašnjim plovnim putevima",
+    "rbrkd08": "H504"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5040",
+    "nkd081": "Prevoz tereta unutrašnjim plovnim putevima",
+    "rbrkd08": "H5040"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "51",
+    "nkd081": "Vazdušni saobraćaj",
+    "rbrkd08": "H51"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "511",
+    "nkd081": "Vazdušni prevoz putnika",
+    "rbrkd08": "H511"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5110",
+    "nkd081": "Vazdušni prevoz putnika",
+    "rbrkd08": "H5110"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "512",
+    "nkd081": "Vazdušni prevoz tereta i vasionski saobraćaj",
+    "rbrkd08": "H512"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5121",
+    "nkd081": "Vazdušni prevoz tereta",
+    "rbrkd08": "H5121"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5122",
+    "nkd081": "Vasionski saobraćaj",
+    "rbrkd08": "H5122"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "52",
+    "nkd081": "Skladištenje i prateće aktivnosti u saobraćaju",
+    "rbrkd08": "H52"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "521",
+    "nkd081": "Skladištenje",
+    "rbrkd08": "H521"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5210",
+    "nkd081": "Skladištenje",
+    "rbrkd08": "H5210"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "522",
+    "nkd081": "Prateće aktivnosti u saobraćaju",
+    "rbrkd08": "H522"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5221",
+    "nkd081": "Uslužne delatnosti u kopnenom saobraćaju",
+    "rbrkd08": "H5221"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5222",
+    "nkd081": "Uslužne delatnosti u vodenom saobraćaju",
+    "rbrkd08": "H5222"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5223",
+    "nkd081": "Uslužne delatnosti u vazdušnom saobraćaju",
+    "rbrkd08": "H5223"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5224",
+    "nkd081": "Manipulacija teretom",
+    "rbrkd08": "H5224"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5229",
+    "nkd081": "Ostale prateće delatnosti u saobraćaju",
+    "rbrkd08": "H5229"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "53",
+    "nkd081": "Poštanske aktivnosti",
+    "rbrkd08": "H53"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "531",
+    "nkd081": "Poštanske aktivnosti javnog servisa",
+    "rbrkd08": "H531"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5310",
+    "nkd081": "Poštanske aktivnosti javnog servisa",
+    "rbrkd08": "H5310"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "532",
+    "nkd081": "Poštanske aktivnosti komercijalnog servisa",
+    "rbrkd08": "H532"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5320",
+    "nkd081": "Poštanske aktivnosti komercijalnog servisa",
+    "rbrkd08": "H5320"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "I",
+    "nkd081": "I - Usluge smeštaja i ishrane",
+    "rbrkd08": "I"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "55",
+    "nkd081": "Smeštaj",
+    "rbrkd08": "I55"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "551",
+    "nkd081": "Hoteli i sličan smeštaj",
+    "rbrkd08": "I551"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5510",
+    "nkd081": "Hoteli i sličan smeštaj",
+    "rbrkd08": "I5510"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "552",
+    "nkd081": "Odmarališta i slični objekti za kraći boravak",
+    "rbrkd08": "I552"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5520",
+    "nkd081": "Odmarališta i slični objekti za kraći boravak",
+    "rbrkd08": "I5520"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "553",
+    "nkd081": "Delatnost kampova, auto-kampova i kampova za turističke prikolice",
+    "rbrkd08": "I553"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5530",
+    "nkd081": "Delatnost kampova, auto-kampova i kampova za turističke prikolice",
+    "rbrkd08": "I5530"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "559",
+    "nkd081": "Ostali smeštaj",
+    "rbrkd08": "I559"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5590",
+    "nkd081": "Ostali smeštaj",
+    "rbrkd08": "I5590"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "56",
+    "nkd081": "Delatnost pripremanja i posluživanja hrane i pića",
+    "rbrkd08": "I56"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "561",
+    "nkd081": "Delatnosti restorana i pokretnih ugostiteljskih objekta",
+    "rbrkd08": "I561"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5610",
+    "nkd081": "Delatnosti restorana i pokretnih ugostiteljskih objekta",
+    "rbrkd08": "I5610"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "562",
+    "nkd081": "Ketering i ostale usluge pripremanja i posluživanja hrane",
+    "rbrkd08": "I562"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5621",
+    "nkd081": "Ketering",
+    "rbrkd08": "I5621"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5629",
+    "nkd081": "Ostale usluge pripremanja i posluživanja hrane",
+    "rbrkd08": "I5629"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "563",
+    "nkd081": "Usluge pripremanja i posluživanja pića",
+    "rbrkd08": "I563"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5630",
+    "nkd081": "Usluge pripremanja i posluživanja pića",
+    "rbrkd08": "I5630"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "J",
+    "nkd081": "J - Informisanje i komunikacije",
+    "rbrkd08": "J"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "58",
+    "nkd081": "Izdavačke delatnosti",
+    "rbrkd08": "J58"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "581",
+    "nkd081": "Izdavanje knjiga, časopisa i druge izdavačke delatnosti",
+    "rbrkd08": "J581"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5811",
+    "nkd081": "Izdavanje knjiga",
+    "rbrkd08": "J5811"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5812",
+    "nkd081": "Izdavanje imenika i adresara",
+    "rbrkd08": "J5812"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5813",
+    "nkd081": "Izdavanje novina",
+    "rbrkd08": "J5813"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5814",
+    "nkd081": "Izdavanje časopisa i periodičnih izdanja",
+    "rbrkd08": "J5814"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5819",
+    "nkd081": "Ostala izdavačka delatnost",
+    "rbrkd08": "J5819"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "582",
+    "nkd081": "Izdavanje softvera",
+    "rbrkd08": "J582"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5821",
+    "nkd081": "Izdavanje računarskih igara",
+    "rbrkd08": "J5821"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5829",
+    "nkd081": "Izdavanje ostalih softvera",
+    "rbrkd08": "J5829"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "59",
+    "nkd081": "Kinematografska i televizijska produkcija, snimanje zvučnih zapisa i izdavanje muzičkih zapisa",
+    "rbrkd08": "J59"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "591",
+    "nkd081": "Kinematografska i televizijska produkcija",
+    "rbrkd08": "J591"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5911",
+    "nkd081": "Proizvodnja kinematografskih dela, audio-vizuelnih proizvoda i televizijskog programa",
+    "rbrkd08": "J5911"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5912",
+    "nkd081": "Delatnosti koje slede nakon faze snimanja u proizvodnji kinematografskih dela i televizijskog programa",
+    "rbrkd08": "J5912"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5913",
+    "nkd081": "Distribucija kinematografskih dela, audio-vizuelnih dela i televizijskog programa",
+    "rbrkd08": "J5913"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5914",
+    "nkd081": "Delatnost prikazivanja kinematografskih dela",
+    "rbrkd08": "J5914"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "592",
+    "nkd081": "Snimanje i izdavanje zvučnih zapisa i muzike",
+    "rbrkd08": "J592"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "5920",
+    "nkd081": "Snimanje i izdavanje zvučnih zapisa i muzike",
+    "rbrkd08": "J5920"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "60",
+    "nkd081": "Programske aktivnosti i emitovanje",
+    "rbrkd08": "J60"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "601",
+    "nkd081": "Emitovanje radio-programa",
+    "rbrkd08": "J601"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6010",
+    "nkd081": "Emitovanje radio-programa",
+    "rbrkd08": "J6010"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "602",
+    "nkd081": "Proizvodnja i emitovanje televizijskog programa",
+    "rbrkd08": "J602"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6020",
+    "nkd081": "Proizvodnja i emitovanje televizijskog programa",
+    "rbrkd08": "J6020"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "61",
+    "nkd081": "Telekomunikacije",
+    "rbrkd08": "J61"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "611",
+    "nkd081": "Kablovske telekomunikacije",
+    "rbrkd08": "J611"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6110",
+    "nkd081": "Kablovske telekomunikacije",
+    "rbrkd08": "J6110"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "612",
+    "nkd081": "Bežične telekomunikacije",
+    "rbrkd08": "J612"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6120",
+    "nkd081": "Bežične telekomunikacije",
+    "rbrkd08": "J6120"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "613",
+    "nkd081": "Satelitske telekomunikacije",
+    "rbrkd08": "J613"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6130",
+    "nkd081": "Satelitske telekomunikacije",
+    "rbrkd08": "J6130"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "619",
+    "nkd081": "Ostale telekomunikacione delatnosti",
+    "rbrkd08": "J619"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6190",
+    "nkd081": "Ostale telekomunikacione delatnosti",
+    "rbrkd08": "J6190"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "62",
+    "nkd081": "Računarsko programiranje, konsultantske i s tim povezane delatnosti",
+    "rbrkd08": "J62"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "620",
+    "nkd081": "Računarsko programiranje, konsultantske i s tim povezane delatnosti",
+    "rbrkd08": "J620"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6201",
+    "nkd081": "Računarsko programiranje",
+    "rbrkd08": "J6201"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6202",
+    "nkd081": "Konsultantske delatnosti u oblasti informacione tehnologije",
+    "rbrkd08": "J6202"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6203",
+    "nkd081": "Upravljanje računarskom opremom",
+    "rbrkd08": "J6203"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6209",
+    "nkd081": "Ostale usluge informacione tehnologije",
+    "rbrkd08": "J6209"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "63",
+    "nkd081": "Informacione uslužne delatnosti",
+    "rbrkd08": "J63"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "631",
+    "nkd081": "Obrada podataka, hosting i s tim povezane delatnosti; veb portali",
+    "rbrkd08": "J631"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6311",
+    "nkd081": "Obrada podataka, hosting i sl.",
+    "rbrkd08": "J6311"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6312",
+    "nkd081": "Veb portali",
+    "rbrkd08": "J6312"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "639",
+    "nkd081": "Ostale informacione uslužne delatnosti",
+    "rbrkd08": "J639"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6391",
+    "nkd081": "Delatnosti novinskih agencija",
+    "rbrkd08": "J6391"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6399",
+    "nkd081": "Informacione uslužne delatnosti na drugom mestu nepomenute",
+    "rbrkd08": "J6399"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "K",
+    "nkd081": "K - Finansijske delatnosti i delatnost osiguranja",
+    "rbrkd08": "K"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "64",
+    "nkd081": "Finansijske usluge, osim osiguranja i penzijskih fondova",
+    "rbrkd08": "K64"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "641",
+    "nkd081": "Monetarno posredovanje",
+    "rbrkd08": "K641"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6411",
+    "nkd081": "Centralna banka",
+    "rbrkd08": "K6411"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6419",
+    "nkd081": "Ostalo monetarno posredovanje",
+    "rbrkd08": "K6419"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "642",
+    "nkd081": "Delatnost holding kompanija",
+    "rbrkd08": "K642"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6420",
+    "nkd081": "Delatnost holding kompanija",
+    "rbrkd08": "K6420"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "643",
+    "nkd081": "Poverenički fondovi (trastovi), investicioni fondovi i slični finansijski entiteti",
+    "rbrkd08": "K643"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6430",
+    "nkd081": "Poverenički fondovi (trastovi), investicioni fondovi i slični finansijski entiteti",
+    "rbrkd08": "K6430"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "649",
+    "nkd081": "Ostale finansijske usluge, osim osiguranja i penzijskih fondova",
+    "rbrkd08": "K649"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6491",
+    "nkd081": "Finansijski lizing",
+    "rbrkd08": "K6491"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6492",
+    "nkd081": "Ostale usluge kreditiranja",
+    "rbrkd08": "K6492"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6499",
+    "nkd081": "Ostale nepomenute finansijske usluge, osim osiguranja i penzijskih fondova",
+    "rbrkd08": "K6499"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "65",
+    "nkd081": "Osiguranje, reosiguranje i penzijski fondovi, osim obaveznog socijalnog osiguranja",
+    "rbrkd08": "K65"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "651",
+    "nkd081": "Osiguranje",
+    "rbrkd08": "K651"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6511",
+    "nkd081": "Životno osiguranje",
+    "rbrkd08": "K6511"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6512",
+    "nkd081": "Neživotno osiguranje",
+    "rbrkd08": "K6512"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "652",
+    "nkd081": "Reosiguranje",
+    "rbrkd08": "K652"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6520",
+    "nkd081": "Reosiguranje",
+    "rbrkd08": "K6520"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "653",
+    "nkd081": "Penzijski fondovi",
+    "rbrkd08": "K653"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6530",
+    "nkd081": "Penzijski fondovi",
+    "rbrkd08": "K6530"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "66",
+    "nkd081": "Pomoćne delatnosti u pružanju finansijskih usluga i osiguranju",
+    "rbrkd08": "K66"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "661",
+    "nkd081": "Pomoćne delatnosti u pružanju finansijskih usluga, osim osiguranja i penzijskih fondova",
+    "rbrkd08": "K661"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6611",
+    "nkd081": "Finansijske i robne berze",
+    "rbrkd08": "K6611"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6612",
+    "nkd081": "Brokerski poslovi s hartijama od vrednosti i berzanskom robom",
+    "rbrkd08": "K6612"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6619",
+    "nkd081": "Ostale pomoćne delatnosti u pružanju finansijskih usluga, osim osiguranja i penzijskih fondova",
+    "rbrkd08": "K6619"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "662",
+    "nkd081": "Pomoćne delatnosti u osiguranju i penzijskim fondovima",
+    "rbrkd08": "K662"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6621",
+    "nkd081": "Obrada odštetnih zahteva i procenjivanje rizika i šteta",
+    "rbrkd08": "K6621"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6622",
+    "nkd081": "Delatnost zastupnika i posrednika u osiguranju",
+    "rbrkd08": "K6622"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6629",
+    "nkd081": "Ostale pomoćne delatnosti u osiguranju i penzijskim fondovima",
+    "rbrkd08": "K6629"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "663",
+    "nkd081": "Upravljanje fondovima",
+    "rbrkd08": "K663"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6630",
+    "nkd081": "Upravljanje fondovima",
+    "rbrkd08": "K6630"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "L",
+    "nkd081": "L - Poslovanje nekretninama",
+    "rbrkd08": "L"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "68",
+    "nkd081": "Poslovanje nekretninama",
+    "rbrkd08": "L68"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "681",
+    "nkd081": "Kupovina i prodaja vlastitih nekretnina",
+    "rbrkd08": "L681"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6810",
+    "nkd081": "Kupovina i prodaja vlastitih nekretnina",
+    "rbrkd08": "L6810"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "682",
+    "nkd081": "Iznajmljivanje vlastitih ili iznajmljenih nekretnina i upravljanje njima",
+    "rbrkd08": "L682"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6820",
+    "nkd081": "Iznajmljivanje vlastitih ili iznajmljenih nekretnina i upravljanje njima",
+    "rbrkd08": "L6820"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6821",
+    "nkd081": "",
+    "rbrkd08": "L6821"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "683",
+    "nkd081": "Poslovanje nekretninama za naknadu",
+    "rbrkd08": "L683"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6831",
+    "nkd081": "Delatnost agencija za nekretnine",
+    "rbrkd08": "L6831"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6832",
+    "nkd081": "Upravljanje nekretninama za naknadu",
+    "rbrkd08": "L6832"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "M",
+    "nkd081": "M - Stručne, naučne i tehničke delatnosti",
+    "rbrkd08": "M"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "69",
+    "nkd081": "Pravni i računovodstveni poslovi",
+    "rbrkd08": "M69"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "69702",
+    "nkd081": "Pravni i računovodstveni poslovi i menadžerski konsultantski poslovi",
+    "rbrkd08": "M69-M702"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "691",
+    "nkd081": "Pravni poslovi",
+    "rbrkd08": "M691"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6910",
+    "nkd081": "Pravni poslovi",
+    "rbrkd08": "M6910"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "692",
+    "nkd081": "Računovodstveni, knjigovodstveni i revizorski poslovi; poresko savetovanje",
+    "rbrkd08": "M692"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "6920",
+    "nkd081": "Računovodstveni, knjigovodstveni i revizorski poslovi; poresko savetovanje",
+    "rbrkd08": "M6920"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "70",
+    "nkd081": "Upravljačke delatnosti; savetovanje u vezi sa upravljanjem",
+    "rbrkd08": "M70"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "701",
+    "nkd081": "Upravljanje ekonomskim subjektom",
+    "rbrkd08": "M701"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7010",
+    "nkd081": "Upravljanje ekonomskim subjektom",
+    "rbrkd08": "M7010"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "702",
+    "nkd081": "Menadžerski konsultantski poslovi",
+    "rbrkd08": "M702"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7021",
+    "nkd081": "Delatnost komunikacija i odnosa s javnošću",
+    "rbrkd08": "M7021"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7022",
+    "nkd081": "Konsultantske aktivnosti u vezi s poslovanjem i ostalim upravljanjem",
+    "rbrkd08": "M7022"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "71",
+    "nkd081": "Arhitektonske i inženjerske delatnosti; inženjersko ispitivanje i analize",
+    "rbrkd08": "M71"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "711",
+    "nkd081": "Arhitektonske i inženjerske delatnosti i tehničko savetovanje",
+    "rbrkd08": "M711"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7111",
+    "nkd081": "Arhitektonska delatnost",
+    "rbrkd08": "M7111"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7112",
+    "nkd081": "Inženjerske delatnosti i tehničko savetovanje",
+    "rbrkd08": "M7112"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "712",
+    "nkd081": "Tehničko ispitivanje i analize",
+    "rbrkd08": "M712"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7120",
+    "nkd081": "Tehničko ispitivanje i analize",
+    "rbrkd08": "M7120"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "72",
+    "nkd081": "Naučno istraživanje i razvoj",
+    "rbrkd08": "M72"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "721",
+    "nkd081": "Istraživanje i eksperimentalni razvoj u prirodnim i tehničko-tehnološkim naukama",
+    "rbrkd08": "M721"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7211",
+    "nkd081": "Istraživanje i eksperimentalni razvoj u biotehnologiji",
+    "rbrkd08": "M7211"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7219",
+    "nkd081": "Istraživanje i razvoj u ostalim prirodnim i tehničko-tehnološkim naukama",
+    "rbrkd08": "M7219"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "722",
+    "nkd081": "Istraživanje i razvoj u društvenim i humanističkim naukama",
+    "rbrkd08": "M722"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7220",
+    "nkd081": "Istraživanje i razvoj u društvenim i humanističkim naukama",
+    "rbrkd08": "M7220"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "73",
+    "nkd081": "Reklamiranje i istraživanje tržišta",
+    "rbrkd08": "M73"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "731",
+    "nkd081": "Reklamiranje",
+    "rbrkd08": "M731"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7311",
+    "nkd081": "Delatnost reklamnih agencija",
+    "rbrkd08": "M7311"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7312",
+    "nkd081": "Medijsko predstavljanje",
+    "rbrkd08": "M7312"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "732",
+    "nkd081": "Istraživanje tržišta i ispitivanje javnog mnjenja",
+    "rbrkd08": "M732"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7320",
+    "nkd081": "Istraživanje tržišta i ispitivanje javnog mnjenja",
+    "rbrkd08": "M7320"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "74",
+    "nkd081": "Ostale stručne, naučne i tehničke delatnosti",
+    "rbrkd08": "M74"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "741",
+    "nkd081": "Specijalizovane dizajnerske delatnosti",
+    "rbrkd08": "M741"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7410",
+    "nkd081": "Specijalizovane dizajnerske delatnosti",
+    "rbrkd08": "M7410"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "742",
+    "nkd081": "Fotografske usluge",
+    "rbrkd08": "M742"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7420",
+    "nkd081": "Fotografske usluge",
+    "rbrkd08": "M7420"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "743",
+    "nkd081": "Prevođenje i usluge tumača",
+    "rbrkd08": "M743"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7430",
+    "nkd081": "Prevođenje i usluge tumača",
+    "rbrkd08": "M7430"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "749",
+    "nkd081": "Ostale stručne, naučne i tehničke delatnosti",
+    "rbrkd08": "M749"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7490",
+    "nkd081": "Ostale stručne, naučne i tehničke delatnosti",
+    "rbrkd08": "M7490"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "75",
+    "nkd081": "Veterinarske delatnosti",
+    "rbrkd08": "M75"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "750",
+    "nkd081": "Veterinarska delatnost",
+    "rbrkd08": "M750"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7500",
+    "nkd081": "Veterinarska delatnost",
+    "rbrkd08": "M7500"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "N",
+    "nkd081": "N - Administrativne i pomoćne uslužne delatnosti",
+    "rbrkd08": "N"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "77",
+    "nkd081": "Iznajmljivanje i lizing",
+    "rbrkd08": "N77"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "771",
+    "nkd081": "Iznajmljivanje i lizing motornih vozila",
+    "rbrkd08": "N771"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7711",
+    "nkd081": "Iznajmljivanje i lizing automobila i lakih motornih vozila",
+    "rbrkd08": "N7711"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7712",
+    "nkd081": "Iznajmljivanje i lizing kamiona",
+    "rbrkd08": "N7712"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "772",
+    "nkd081": "Iznajmljivanje i lizing predmeta za ličnu upotrebu i upotrebu u domaćinstvu",
+    "rbrkd08": "N772"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7721",
+    "nkd081": "Iznajmljivanje i lizing opreme za rekreaciju i sport",
+    "rbrkd08": "N7721"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7722",
+    "nkd081": "Iznajmljivanje video-kaseta i kompakt-diskova",
+    "rbrkd08": "N7722"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7729",
+    "nkd081": "Iznajmljivanje i lizing ostalih predmeta za ličnu upotrebu i upotrebu u domaćinstvu",
+    "rbrkd08": "N7729"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "773",
+    "nkd081": "Iznajmljivanje i lizing mašina, opreme i materijalnih dobara",
+    "rbrkd08": "N773"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7731",
+    "nkd081": "Iznajmljivanje i lizing poljoprivrednih mašina i opreme",
+    "rbrkd08": "N7731"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7732",
+    "nkd081": "Iznajmljivanje i lizing mašina i opreme za građevinarstvo",
+    "rbrkd08": "N7732"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7733",
+    "nkd081": "Iznajmljivanje i lizing kancelarijskih mašina i kancelarijske opreme (uključujući računare)",
+    "rbrkd08": "N7733"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7734",
+    "nkd081": "Iznajmljivanje i lizing opreme za vodeni transport",
+    "rbrkd08": "N7734"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7735",
+    "nkd081": "Iznajmljivanje i lizing opreme za vazdušni transport",
+    "rbrkd08": "N7735"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7739",
+    "nkd081": "Iznajmljivanje i lizing ostalih mašina, opreme i materijalnih dobara",
+    "rbrkd08": "N7739"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "774",
+    "nkd081": "Lizing intelektualne svojine i sličnih proizvoda, autorskih dela i predmeta srodnih prava",
+    "rbrkd08": "N774"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7740",
+    "nkd081": "Lizing intelektualne svojine i sličnih proizvoda, autorskih dela i predmeta srodnih prava",
+    "rbrkd08": "N7740"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "78",
+    "nkd081": "Delatnosti zapošljavanja",
+    "rbrkd08": "N78"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "781",
+    "nkd081": "Delatnost agencija za zapošljavanje",
+    "rbrkd08": "N781"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7810",
+    "nkd081": "Delatnost agencija za zapošljavanje",
+    "rbrkd08": "N7810"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "782",
+    "nkd081": "Delatnost agencija za privremeno zapošljavanje",
+    "rbrkd08": "N782"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7820",
+    "nkd081": "Delatnost agencija za privremeno zapošljavanje",
+    "rbrkd08": "N7820"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "783",
+    "nkd081": "Ostalo ustupanje ljudskih resursa",
+    "rbrkd08": "N783"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7830",
+    "nkd081": "Ostalo ustupanje ljudskih resursa",
+    "rbrkd08": "N7830"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "79",
+    "nkd081": "Delatnost putničkih agencija, tur-operatora, usluge rezervacije i prateće aktivnosti",
+    "rbrkd08": "N79"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "791",
+    "nkd081": "Delatnost putničkih agencija i tur-operatora",
+    "rbrkd08": "N791"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7911",
+    "nkd081": "Delatnost putničkih agencija",
+    "rbrkd08": "N7911"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7912",
+    "nkd081": "Delatnost tur-operatora",
+    "rbrkd08": "N7912"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "799",
+    "nkd081": "Ostale usluge rezervacije i delatnosti povezane s njima",
+    "rbrkd08": "N799"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "7990",
+    "nkd081": "Ostale usluge rezervacije i delatnosti povezane s njima",
+    "rbrkd08": "N7990"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "80",
+    "nkd081": "Zaštitne i istražne delatnosti",
+    "rbrkd08": "N80"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "801",
+    "nkd081": "Delatnost privatnog obezbeđenja",
+    "rbrkd08": "N801"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8010",
+    "nkd081": "Delatnost privatnog obezbeđenja",
+    "rbrkd08": "N8010"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "802",
+    "nkd081": "Usluge sistema obezbeđenja",
+    "rbrkd08": "N802"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8020",
+    "nkd081": "Usluge sistema obezbeđenja",
+    "rbrkd08": "N8020"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "803",
+    "nkd081": "Istražne delatnosti",
+    "rbrkd08": "N803"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8030",
+    "nkd081": "Istražne delatnosti",
+    "rbrkd08": "N8030"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "81",
+    "nkd081": "Usluge održavanja objekata i okoline",
+    "rbrkd08": "N81"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "811",
+    "nkd081": "Usluge održavanja objekata",
+    "rbrkd08": "N811"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8110",
+    "nkd081": "Usluge održavanja objekata",
+    "rbrkd08": "N8110"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "812",
+    "nkd081": "Usluge čišćenja",
+    "rbrkd08": "N812"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8121",
+    "nkd081": "Usluge redovnog čišćenja zgrada",
+    "rbrkd08": "N8121"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8122",
+    "nkd081": "Usluge ostalog čišćenja zgrada i opreme",
+    "rbrkd08": "N8122"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8129",
+    "nkd081": "Usluge ostalog čišćenja",
+    "rbrkd08": "N8129"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "813",
+    "nkd081": "Usluge uređenja i održavanja okoline",
+    "rbrkd08": "N813"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8130",
+    "nkd081": "Usluge uređenja i održavanja okoline",
+    "rbrkd08": "N8130"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "82",
+    "nkd081": "Kancelarijsko-administrativne i druge pomoćne poslovne delatnosti",
+    "rbrkd08": "N82"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "821",
+    "nkd081": "Kancelarijsko-administrativne i pomoćne delatnosti",
+    "rbrkd08": "N821"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8211",
+    "nkd081": "Kombinovane kancelarijsko-administrativne usluge",
+    "rbrkd08": "N8211"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8219",
+    "nkd081": "Fotokopiranje, pripremanje dokumenata i druga specijalizovana kancelarijska podrška",
+    "rbrkd08": "N8219"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "822",
+    "nkd081": "Delatnost pozivnih centara",
+    "rbrkd08": "N822"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8220",
+    "nkd081": "Delatnost pozivnih centara",
+    "rbrkd08": "N8220"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "823",
+    "nkd081": "Organizovanje sastanaka i sajmova",
+    "rbrkd08": "N823"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8230",
+    "nkd081": "Organizovanje sastanaka i sajmova",
+    "rbrkd08": "N8230"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "829",
+    "nkd081": "Poslovne, pomoćne, uslužne i ostale delatnosti",
+    "rbrkd08": "N829"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8291",
+    "nkd081": "Delatnost agencija za naplatu potraživanja i kreditnih biroa",
+    "rbrkd08": "N8291"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8292",
+    "nkd081": "Usluge pakovanja",
+    "rbrkd08": "N8292"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8299",
+    "nkd081": "Ostale uslužne aktivnosti podrške poslovanju",
+    "rbrkd08": "N8299"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "O",
+    "nkd081": "O - Državna uprava i odbrana; obavezno socijalno osiguranje",
+    "rbrkd08": "O"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "84",
+    "nkd081": "Javna uprava i odbrana; obavezno socijalno osiguranje",
+    "rbrkd08": "O84"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "841",
+    "nkd081": "Državna uprava, ekonomska i socijalna politika",
+    "rbrkd08": "O841"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8411",
+    "nkd081": "Delatnost državnih organa",
+    "rbrkd08": "O8411"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8412",
+    "nkd081": "Uređivanje delatnosti subjekata koji pružaju zdravstvenu zaštitu, usluge u obrazovanju i kulturi i druge društvene usluge, osim obaveznog socijalnog osiguranja",
+    "rbrkd08": "O8412"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8413",
+    "nkd081": "Uređenje poslovanja i doprinos uspešnijem poslovanju u oblasti ekonomije",
+    "rbrkd08": "O8413"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "842",
+    "nkd081": "Pomoćne aktivnosti za funkcionisanje države",
+    "rbrkd08": "O842"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8421",
+    "nkd081": "Spoljni poslovi",
+    "rbrkd08": "O8421"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8422",
+    "nkd081": "Poslovi odbrane",
+    "rbrkd08": "O8422"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8423",
+    "nkd081": "Sudske i pravosudne delatnosti",
+    "rbrkd08": "O8423"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8424",
+    "nkd081": "Obezbeđivanje javnog reda i bezbednosti",
+    "rbrkd08": "O8424"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8425",
+    "nkd081": "Delatnost vatrogasnih jedinica",
+    "rbrkd08": "O8425"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "843",
+    "nkd081": "Obavezno socijalno osiguranje",
+    "rbrkd08": "O843"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8430",
+    "nkd081": "Obavezno socijalno osiguranje",
+    "rbrkd08": "O8430"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "P",
+    "nkd081": "P - Obrazovanje",
+    "rbrkd08": "P"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "85",
+    "nkd081": "Obrazovanje",
+    "rbrkd08": "P85"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "851",
+    "nkd081": "Predškolsko obrazovanje",
+    "rbrkd08": "P851"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8510",
+    "nkd081": "Predškolsko obrazovanje",
+    "rbrkd08": "P8510"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "852",
+    "nkd081": "Osnovno obrazovanje",
+    "rbrkd08": "P852"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8520",
+    "nkd081": "Osnovno obrazovanje",
+    "rbrkd08": "P8520"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "853",
+    "nkd081": "Srednje obrazovanje",
+    "rbrkd08": "P853"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8531",
+    "nkd081": "Srednje opšte obrazovanje",
+    "rbrkd08": "P8531"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8532",
+    "nkd081": "Srednje stručno obrazovanje",
+    "rbrkd08": "P8532"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "854",
+    "nkd081": "Visoko obrazovanje",
+    "rbrkd08": "P854"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8541",
+    "nkd081": "Obrazovanje posle srednjeg koje nije visoko",
+    "rbrkd08": "P8541"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8542",
+    "nkd081": "Visoko obrazovanje",
+    "rbrkd08": "P8542"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "855",
+    "nkd081": "Ostalo obrazovanje",
+    "rbrkd08": "P855"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8551",
+    "nkd081": "Sportsko i rekreativno obrazovanje",
+    "rbrkd08": "P8551"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8552",
+    "nkd081": "Umetničko obrazovanje",
+    "rbrkd08": "P8552"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8553",
+    "nkd081": "Delatnost škola za vozače",
+    "rbrkd08": "P8553"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8559",
+    "nkd081": "Ostalo obrazovanje",
+    "rbrkd08": "P8559"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "856",
+    "nkd081": "Pomoćne obrazovne delatnosti",
+    "rbrkd08": "P856"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8560",
+    "nkd081": "Pomoćne obrazovne delatnosti",
+    "rbrkd08": "P8560"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "Q",
+    "nkd081": "Q - Zdravstvena i socijalna zaštita",
+    "rbrkd08": "Q"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "86",
+    "nkd081": "Zdravstvene delatnosti",
+    "rbrkd08": "Q86"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "861",
+    "nkd081": "Delatnost bolnica",
+    "rbrkd08": "Q861"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8610",
+    "nkd081": "Delatnost bolnica",
+    "rbrkd08": "Q8610"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "862",
+    "nkd081": "Medicinska i stomatološka praksa",
+    "rbrkd08": "Q862"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8621",
+    "nkd081": "Opšta medicinska praksa",
+    "rbrkd08": "Q8621"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8622",
+    "nkd081": "Specijalistička medicinska praksa",
+    "rbrkd08": "Q8622"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8623",
+    "nkd081": "Stomatološka praksa",
+    "rbrkd08": "Q8623"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "869",
+    "nkd081": "Ostala zdravstvena zaštita",
+    "rbrkd08": "Q869"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8690",
+    "nkd081": "Ostala zdravstvena zaštita",
+    "rbrkd08": "Q8690"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "87",
+    "nkd081": "Socijalna zaštita sa smeštajem",
+    "rbrkd08": "Q87"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "871",
+    "nkd081": "Delatnosti smeštajnih ustanova s medicinskom negom",
+    "rbrkd08": "Q871"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8710",
+    "nkd081": "Delatnosti smeštajnih ustanova s medicinskom negom",
+    "rbrkd08": "Q8710"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "872",
+    "nkd081": "Socijalno staranje u smeštajnim ustanovama za lica s teškoćama u razvoju, duševno obolele osobe i osobe s bolestima zavisnosti",
+    "rbrkd08": "Q872"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8720",
+    "nkd081": "Socijalno staranje u smeštajnim ustanovama za lica s teškoćama u razvoju, duševno obolele osobe i osobe s bolestima zavisnosti",
+    "rbrkd08": "Q8720"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "873",
+    "nkd081": "Rad ustanova za stara lica i lica s posebnim potrebama",
+    "rbrkd08": "Q873"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8730",
+    "nkd081": "Rad ustanova za stara lica i lica s posebnim potrebama",
+    "rbrkd08": "Q8730"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "879",
+    "nkd081": "Ostali oblici socijalne zaštite sa smeštajem",
+    "rbrkd08": "Q879"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8790",
+    "nkd081": "Ostali oblici socijalne zaštite sa smeštajem",
+    "rbrkd08": "Q8790"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "88",
+    "nkd081": "Socijalna zaštita bez smeštaja",
+    "rbrkd08": "Q88"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "881",
+    "nkd081": "Socijalna zaštita bez smeštaja za stara lica i lica s posebnim potrebama",
+    "rbrkd08": "Q881"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8810",
+    "nkd081": "Socijalna zaštita bez smeštaja za stara lica i lica s posebnim potrebama",
+    "rbrkd08": "Q8810"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "889",
+    "nkd081": "Ostala socijalna zaštita bez smeštaja",
+    "rbrkd08": "Q889"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8891",
+    "nkd081": "Delatnost dnevne brige o deci",
+    "rbrkd08": "Q8891"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "8899",
+    "nkd081": "Ostala nepomenuta socijalna zaštita bez smeštaja",
+    "rbrkd08": "Q8899"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "R",
+    "nkd081": "R - Umetnost; zabava i rekreacija",
+    "rbrkd08": "R"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "90",
+    "nkd081": "Stvaralačke, umetničke i zabavne delatnosti",
+    "rbrkd08": "R90"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "900",
+    "nkd081": "Stvaralačke, umetničke i zabavne delatnosti",
+    "rbrkd08": "R900"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9001",
+    "nkd081": "Izvođačka umetnost",
+    "rbrkd08": "R9001"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9002",
+    "nkd081": "Druge umetničke delatnosti u okviru izvođačke umetnosti",
+    "rbrkd08": "R9002"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9003",
+    "nkd081": "Umetničko stvaralaštvo",
+    "rbrkd08": "R9003"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9004",
+    "nkd081": "Rad umetničkih ustanova",
+    "rbrkd08": "R9004"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "91",
+    "nkd081": "Delatnost biblioteka, arhiva, muzeja galerija i zbirki i ostale kulturne delatnosti",
+    "rbrkd08": "R91"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "910",
+    "nkd081": "Rad biblioteka, arhiva, muzeja, galerija i zbirki, zavoda za zaštitu spomenika kulture i ostale kulturne delatnosti",
+    "rbrkd08": "R910"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9101",
+    "nkd081": "Delatnosti biblioteka i arhiva",
+    "rbrkd08": "R9101"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9102",
+    "nkd081": "Delatnost muzeja galerija i zbirki",
+    "rbrkd08": "R9102"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9103",
+    "nkd081": "Zaštita i održavanje nepokretnih kulturnih dobara, kulturno-istorijskih lokacija, zgrada i sličnih turističkih spomenika",
+    "rbrkd08": "R9103"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9104",
+    "nkd081": "Delatnost botaničkih i zooloških vrtova i zaštita prirodnih vrednosti",
+    "rbrkd08": "R9104"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "92",
+    "nkd081": "Kockanje i klađenje",
+    "rbrkd08": "R92"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "920",
+    "nkd081": "Kockanje i klađenje",
+    "rbrkd08": "R920"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9200",
+    "nkd081": "Kockanje i klađenje",
+    "rbrkd08": "R9200"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "93",
+    "nkd081": "Sportske, zabavne i rekreativne delatnosti",
+    "rbrkd08": "R93"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "931",
+    "nkd081": "Sportske delatnosti",
+    "rbrkd08": "R931"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9311",
+    "nkd081": "Delatnost sportskih objekata",
+    "rbrkd08": "R9311"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9312",
+    "nkd081": "Delatnost sportskih klubova",
+    "rbrkd08": "R9312"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9313",
+    "nkd081": "Delatnost fitnes klubova",
+    "rbrkd08": "R9313"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9319",
+    "nkd081": "Ostale sportske delatnosti",
+    "rbrkd08": "R9319"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "932",
+    "nkd081": "Ostale zabavne i rekreativne delatnosti",
+    "rbrkd08": "R932"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9321",
+    "nkd081": "Delatnost zabavnih i tematskih parkova",
+    "rbrkd08": "R9321"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9329",
+    "nkd081": "Ostale zabavne i rekreativne delatnosti",
+    "rbrkd08": "R9329"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "S",
+    "nkd081": "S - Ostale uslužne delatnosti",
+    "rbrkd08": "S"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "94",
+    "nkd081": "Delatnosti udruženja",
+    "rbrkd08": "S94"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "941",
+    "nkd081": "Delatnost poslovnih i profesionalnih organizacija i poslodavaca",
+    "rbrkd08": "S941"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9411",
+    "nkd081": "Delatnosti poslovnih udruženja i udruženja poslodavaca",
+    "rbrkd08": "S9411"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9412",
+    "nkd081": "Delatnosti strukovnih udruženja",
+    "rbrkd08": "S9412"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "942",
+    "nkd081": "Delatnost sindikata",
+    "rbrkd08": "S942"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9420",
+    "nkd081": "Delatnost sindikata",
+    "rbrkd08": "S9420"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "949",
+    "nkd081": "Delatnost ostalih organizacija na bazi učlanjenja",
+    "rbrkd08": "S949"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9491",
+    "nkd081": "Delatnost verskih organizacija",
+    "rbrkd08": "S9491"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9492",
+    "nkd081": "Delatnost političkih organizacija",
+    "rbrkd08": "S9492"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9499",
+    "nkd081": "Delatnost ostalih organizacija na bazi učlanjenja",
+    "rbrkd08": "S9499"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "95",
+    "nkd081": "Popravka računara i predmeta za ličnu upotrebu i upotrebu u domaćinstvu",
+    "rbrkd08": "S95"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "951",
+    "nkd081": "Popravka računara i komunikacione opreme",
+    "rbrkd08": "S951"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9511",
+    "nkd081": "Popravka računara i periferne opreme",
+    "rbrkd08": "S9511"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9512",
+    "nkd081": "Popravka komunikacione opreme",
+    "rbrkd08": "S9512"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "952",
+    "nkd081": "Popravka predmeta za ličnu upotrebu i upotrebu u domaćinstvu",
+    "rbrkd08": "S952"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9521",
+    "nkd081": "Popravka elektronskih aparata za široku upotrebu",
+    "rbrkd08": "S9521"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9522",
+    "nkd081": "Popravka aparata za domaćinstvo i kućne i baštenske opreme",
+    "rbrkd08": "S9522"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9523",
+    "nkd081": "Popravka obuće i predmeta od kože",
+    "rbrkd08": "S9523"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9524",
+    "nkd081": "Održavanje i popravka nameštaja",
+    "rbrkd08": "S9524"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9525",
+    "nkd081": "Popravka satova i nakita",
+    "rbrkd08": "S9525"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9529",
+    "nkd081": "Popravka ostalih ličnih predmeta i predmeta za domaćinstvo",
+    "rbrkd08": "S9529"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "96",
+    "nkd081": "Ostale lične uslužne delatnosti",
+    "rbrkd08": "S96"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "960",
+    "nkd081": "Ostale lične uslužne delatnosti",
+    "rbrkd08": "S960"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9601",
+    "nkd081": "Pranje i hemijsko čišćenje tekstilnih i krznenih proizvoda",
+    "rbrkd08": "S9601"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9602",
+    "nkd081": "Delatnost frizerskih i kozmetičkih salona",
+    "rbrkd08": "S9602"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9603",
+    "nkd081": "Pogrebne i srodne delatnosti",
+    "rbrkd08": "S9603"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9604",
+    "nkd081": "Delatnost nege i održavanja tela",
+    "rbrkd08": "S9604"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9609",
+    "nkd081": "Ostale nepomenute lične uslužne delatnosti",
+    "rbrkd08": "S9609"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "T",
+    "nkd081": "T - Delatnost domaćinstva kao poslodavca; delatnost domaćinstava koja proizvode robu i usluge za sopstvene potrebe",
+    "rbrkd08": "T"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "97",
+    "nkd081": "Delatnost domaćinstava koja zapošljavaju poslugu",
+    "rbrkd08": "T97"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "970",
+    "nkd081": "Delatnost domaćinstava koja zapošljavaju poslugu",
+    "rbrkd08": "T970"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9700",
+    "nkd081": "Delatnost domaćinstava koja zapošljavaju poslugu",
+    "rbrkd08": "T9700"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "98",
+    "nkd081": "Delatnost domaćinstava koja proizvode robu i usluge za sopstvene potrebe",
+    "rbrkd08": "T98"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "981",
+    "nkd081": "Delatnost domaćinstava koja proizvode robu za sopstvene potrebe",
+    "rbrkd08": "T981"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9810",
+    "nkd081": "Delatnost domaćinstava koja proizvode robu za sopstvene potrebe",
+    "rbrkd08": "T9810"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "982",
+    "nkd081": "Delatnost domaćinstava koja obezbeđuju usluge za sopstvene potrebe",
+    "rbrkd08": "T982"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9820",
+    "nkd081": "Delatnost domaćinstava koja obezbeđuju usluge za sopstvene potrebe",
+    "rbrkd08": "T9820"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "U",
+    "nkd081": "U - Delatnost eksteritorijalnih organizacija i tela",
+    "rbrkd08": "U"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "99",
+    "nkd081": "Delatnost eksteritorijalnih organizacija i tela",
+    "rbrkd08": "U99"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "990",
+    "nkd081": "Delatnost eksteritorijalnih organizacija i tela",
+    "rbrkd08": "U990"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "9900",
+    "nkd081": "Delatnost eksteritorijalnih organizacija i tela",
+    "rbrkd08": "U9900"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "X",
+    "nkd081": "Ostalo",
+    "rbrkd08": "X"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XH",
+    "nkd081": "Domaćinstva (potrošači)",
+    "rbrkd08": "XH"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XH01",
+    "nkd081": "Transportne delatnosti domaćinstava",
+    "rbrkd08": "XH01"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XH02",
+    "nkd081": "Delatnosti grejanja/hladjenja domaćinstva",
+    "rbrkd08": "XH02"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XH03",
+    "nkd081": "Ostale delatnosti domaćinstava",
+    "rbrkd08": "XH03"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XH04",
+    "nkd081": "Zalihe",
+    "rbrkd08": "XH04"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XH05",
+    "nkd081": "Statistička greška",
+    "rbrkd08": "XH05"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XH06",
+    "nkd081": "Uvoz/Izvoz",
+    "rbrkd08": "XH06"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XH07",
+    "nkd081": "Životna sredina",
+    "rbrkd08": "XH07"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XH08",
+    "nkd081": "Sektori ekonsomskih delatnosti",
+    "rbrkd08": "XH08"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XHN",
+    "nkd081": "Nerezidenti",
+    "rbrkd08": "XHN"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "XHR",
+    "nkd081": "Rezidenti",
+    "rbrkd08": "XHR"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "Y",
+    "nkd081": "Nepoznato",
+    "rbrkd08": "Y"
+  },
+  {
+    "idjezik": "2",
+    "idkd08": "Z",
+    "nkd081": "Nerasporedjeno",
+    "rbrkd08": "Z"
+  }
+]
