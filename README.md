@@ -9,6 +9,7 @@ Radionica se drži na srpskom jeziku ali materijali će većinski biti distribui
 ## Sadržaj
 
 1. [Uputstvo da konfigurisanje radnog okruženja](./ENVIRONMENT_SETUP.md)
+2. [Intro](./01_intro/README.md)
 
 ## Autori
 
